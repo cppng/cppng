@@ -6,6 +6,10 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
         <div class="page-title-box">
             <div class="page-title-right">
                 <form class="form-inline">
+                    <a href="javascript: void(0);" class="btn btn-blue btn-sm ml-1">
+                        <!-- <i class="mdi mdi-filter-variant"></i> -->
+                        Current
+                    </a>
                     <div class="form-group">
                         <div class="input-group input-group-sm">
                             <input type="text" class="form-control border-0 shadow" id="dash-daterange">
@@ -17,11 +21,10 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                         </div>
                     </div>
                     <a href="javascript: void(0);" class="btn btn-blue btn-sm ml-2">
-                        <i class="mdi mdi-autorenew"></i>
+                        <!-- <i class="mdi mdi-autorenew"></i> -->
+                        Cummulative
                     </a>
-                    <a href="javascript: void(0);" class="btn btn-blue btn-sm ml-1">
-                        <i class="mdi mdi-filter-variant"></i>
-                    </a>
+                    
                 </form>
             </div>
             <h4 class="page-title">Revenue League</h4>
