@@ -66,9 +66,9 @@
                         <tr class="text-white" style="background-color: #3e6551;">
                             <td style="width: 36px;">1</td>    
                             <td><h5 class="m-0 font-weight-normal text-white">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
-                            <td>213,750.00</td>    
+                            <td>213,750</td>    
                             <td>1,934,000</td>    
-                            <td>90.48</td>    
+                            <td>90.5</td>    
                             <!-- <td>904.80%</td> -->
                         </tr>
 
@@ -82,15 +82,15 @@
                             </td>
 
                             <td>
-                                35,174,466.67	
+                                35,174,466
                             </td>
 
                             <td>
-                                237,279,147.26
+                                237,279,147
                             </td>
 
                             <td>
-                                67.46
+                                67.5
                             </td>
 
                             <!-- <td>
@@ -108,7 +108,7 @@
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
                             <td>
-                                41,666.67
+                                41,666
                             </td>
 
                             <td>
@@ -116,7 +116,7 @@
                             </td>
 
                             <td>
-                                35.93	
+                                35.9
                             </td>
 
                             <!-- <td>
@@ -136,7 +136,7 @@
                             </td>
 
                             <td>
-                                3,925,000.00	
+                                3,925,000	
                             </td>
 
                             <td>
@@ -144,7 +144,7 @@
                             </td>
 
                             <td>
-                                28.99	
+                                28.9
                             </td>
 
                             <!-- <td>
@@ -162,7 +162,7 @@
                             </td>
 
                             <td>
-                                166,666.67	
+                                166,666
                             </td>
 
                             <td>
@@ -170,7 +170,7 @@
                             </td>
 
                             <td>
-                                20.40	
+                                20.4
                             </td>
 
                             <!-- <td>
@@ -188,15 +188,15 @@
                             </td>
 
                             <td>
-                                9,835,000.00
+                                9,835,000
                             </td>
 
                             <td>
-                                16,471,817.84	
+                                16,471,817
                             </td>
 
                             <td>
-                                16.75
+                                16.8
                             </td>
 
                             <!-- <td>
@@ -213,7 +213,7 @@
                             </td>
 
                             <td>
-                                25,195,958.33	
+                                25,195,958
                             </td>
 
                             <td>
@@ -221,7 +221,7 @@
                             </td>
 
                             <td>
-                                16.41
+                                16.4
                             </td>
 
                             <!-- <td>
@@ -238,7 +238,7 @@
                             </td>
 
                             <td>
-                                4,583,333.33	
+                                4,583,333
                             </td>
 
                             <td>
@@ -246,7 +246,7 @@
                             </td>
 
                             <td>
-                                15.37
+                                15.4
                             </td>
 
                             <!-- <td>
@@ -263,7 +263,7 @@
                             </td>
 
                             <td>
-                                229,166.67	
+                                229,166
                             </td>
 
                             <td>
@@ -271,7 +271,7 @@
                             </td>
 
                             <td>
-                                14.49	
+                                14.5
                             </td>
 
                             <!-- <td>
@@ -288,7 +288,7 @@
                             </td>
 
                             <td>
-                                16,666,666.67	
+                                16,666,666
                             </td>
 
                             <td>
@@ -296,7 +296,7 @@
                             </td>
 
                             <td>
-                                13.78
+                                13.8
                             </td>
 
                             <!-- <td>
@@ -314,7 +314,7 @@
                             </td>
 
                             <td>
-                                125,000.00
+                                125,000
                             </td>
 
                             <td>
@@ -322,7 +322,7 @@
                             </td>
 
                             <td>
-                                9.44	
+                                9.4
                             </td>
 
                             <!-- <td>
@@ -340,7 +340,7 @@
                             </td>
 
                             <td>
-                                10,458,333.33	
+                                10,458,333	
                             </td>
 
                             <td>
@@ -348,7 +348,7 @@
                             </td>
 
                             <td>
-                                8.70
+                                9.0
                             </td>
 
                             <!-- <td>
@@ -365,15 +365,15 @@
                             </td>
 
                             <td>
-                                1,361,970,114.33	
+                                1,361,970,114	
                             </td>
 
                             <td>
-                                998,284,596.18	
+                                998,284,596
                             </td>
 
                             <td>
-                                7.33
+                                7.3
                             </td>
 
                             <!-- <td>
@@ -390,7 +390,7 @@
                             </td>
 
                             <td>
-                                184,166.67	
+                                184,166	
                             </td>
 
                             <td>
@@ -398,7 +398,7 @@
                             </td>
 
                             <td>
-                                6.58
+                                6.6
                             </td>
 
                             <!-- <td>
@@ -415,7 +415,7 @@
                             </td>
 
                             <td>
-                                33,333.33	
+                                33,333
                             </td>
 
                             <td>
@@ -423,7 +423,7 @@
                             </td>
 
                             <td>
-                                6.48	
+                                6.5	
                             </td>
 
                             <!-- <td>
@@ -438,7 +438,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF ARTS, SCIENCE AND TECHNOLOGY, KURGWI    </h5>
                             <td>
-                                209,166.67	
+                                209,166
                             </td>
 
                             <td>
@@ -446,7 +446,7 @@
                             </td>
 
                             <td>
-                                6.45	
+                                6.5	
                             </td>
 
                             <!-- <td>
@@ -461,7 +461,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE UNIVERSITY, BOKKOS	</h5>   
                             <td>
-                                4,708,333.33	
+                                4,708,333	
                             </td>
 
                             <td>
@@ -469,7 +469,7 @@
                             </td>
 
                             <td>
-                                6.17
+                                6.2
                             </td>
 
                             <!-- <td>
@@ -484,7 +484,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF JUSTICE - PLATEAU STATE		</h5>   
                             <td>
-                                233,333.33	
+                                233,333
                             </td>
 
                             <td>
@@ -492,7 +492,7 @@
                             </td>
 
                             <td>
-                                6.19
+                                6.2
                             </td>
 
                             <!-- <td>
@@ -508,7 +508,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE CIVIL SERVICE COMMISSION</h5>   
                             <td>
-                                12,425,000.00
+                                12,425,000
                             </td>
 
                             <td>
@@ -516,7 +516,7 @@
                             </td>
 
                             <td>
-                                6.14
+                                6.1
                             </td>
 
                             <!-- <td>
@@ -532,15 +532,15 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE INDEPENDENT ELECTORAL		</h5>   
                             <td>
-                                1,250,000.00	
+                                1,250,000	
                             </td>
 
                             <td>
-                                725,284.5
+                                725,284
                             </td>
 
                             <td>
-                                5.80	
+                                5.8
                             </td>
 
                             <!-- <td>
@@ -555,7 +555,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF EDUCATION AND ERC PLATEAU STATE		</h5>   
                             <td>
-                                45,833.33	
+                                45,833
                             </td>
 
                             <td>
@@ -563,7 +563,7 @@
                             </td>
 
                             <td>
-                                5.11
+                                5.1
                             </td>
 
                             <!-- <td>
@@ -578,7 +578,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF NURSING AND MIDWIFERY, VOM</h5>   
                             <td>
-                                1,850,000.00	
+                                1,850,000	
                             </td>
 
                             <td>
@@ -586,7 +586,7 @@
                             </td>
 
                             <td>
-                                4.98
+                                5.0
                             </td>
 
                             <!-- <td>
@@ -602,7 +602,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE WATER BOARD	</h5>   
                             <td>
-                                20,833.33	
+                                20,833
                             </td>
 
                             <td>
@@ -610,7 +610,7 @@
                             </td>
 
                             <td>
-                                4.80
+                                4.8
                             </td>
 
                             <!-- <td>
@@ -625,7 +625,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">OFFICE OF THE SECRETARY TO THE GOVERNMENT</h5>   
                             <td>
-                                104,166.67	
+                                104,166
                             </td>
 
                             <td>
@@ -633,7 +633,7 @@
                             </td>
 
                             <td>
-                                4.53
+                                4.5
                             </td>
 
                             <!-- <td>
@@ -648,7 +648,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">SHARIA COURT OF APPEAL - PLATEAU STATE	</h5>   
                             <td>
-                                20,302,083.33	
+                                20,302,083	
                             </td>
 
                             <td>
@@ -656,7 +656,7 @@
                             </td>
 
                             <td>
-                                3.93
+                                3.9
                             </td>
 
                             <!-- <td>
@@ -672,7 +672,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF INFORMATION AND COMMUNICATION	</h5>   
                             <td>
-                                4,515,083.33	
+                                4,515,083	
                             </td>
 
                             <td>
@@ -680,7 +680,7 @@
                             </td>
 
                             <td>
-                                3.63
+                                3.6
                             </td>
 
                             <!-- <td>
@@ -696,15 +696,15 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">CUSTOMARY COURT OF APPEAL</h5>   
                             <td>
-                                35,045,833.33	
+                                35,045,833	
                             </td>
 
                             <td>
-                                12,191,585.59
+                                12,191,585
                             </td>
 
                             <td>
-                                3.48
+                                3.5
                             </td>
 
                             <!-- <td>
@@ -719,7 +719,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE POLYTECHNIC, BARKIN LADI (MAIN/HRDC	</h5>   
                             <td>
-                                6,686,250.00		
+                                6,686,250		
                             </td>
 
                             <td>
@@ -727,7 +727,7 @@
                             </td>
 
                             <td>
-                                2.84	
+                                2.8
                             </td>
 
                             <!-- <td>
@@ -742,7 +742,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF TRANSPORT - PLATEAU STATE</h5>   
                             <td>
-                                30,000.00		
+                                30,000	
                             </td>
 
                             <td>
@@ -750,7 +750,7 @@
                             </td>
 
                             <td>
-                                2.80
+                                2.8
                             </td>
 
                             <!-- <td>
@@ -765,15 +765,15 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF AGRICULTURE, GARKAWA - PLATEAU</h5>   
                             <td>
-                                88,583,333.33	
+                                88,583,333
                             </td>
 
                             <td>
-                                23,208,807.53
+                                23,208,807
                             </td>
 
                             <td>
-                                2.62
+                                2.6
                             </td>
 
                             <!-- <td>
@@ -788,7 +788,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE PUBLISHING CORPORATION	</h5>   
                             <td>
-                                742,500.00	
+                                742,500	
                             </td>
 
                             <td>
@@ -796,7 +796,7 @@
                             </td>
 
                             <td>
-                                2.58
+                                2.6
                             </td>
 
                             <!-- <td>
@@ -811,7 +811,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">JUDICIAL SERVICE COMMISSION	</h5>   
                             <td>
-                                3,750,000.00	
+                                3,750,000
                             </td>
 
                             <td>
@@ -819,7 +819,7 @@
                             </td>
 
                             <td>
-                                2.21	
+                                2.2
                             </td>
 
                             <!-- <td>
@@ -835,7 +835,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE ROAD MAINTENANCE AGENCY</h5>   
                             <td>
-                                362,500.00		
+                                362,500	
                             </td>
 
                             <td>
@@ -843,7 +843,7 @@
                             </td>
 
                             <td>
-                                1.79
+                                1.8
                             </td>
 
                             <!-- <td>
@@ -858,7 +858,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF FINANCE - BUREAU FOR BUDGET PLATEAU STATE	</h5>   
                             <td>
-                                2,920,833.33	
+                                2,920,833	
                             </td>
 
                             <td>
@@ -866,7 +866,7 @@
                             </td>
 
                             <td>
-                                1.81	
+                                1.8	
                             </td>
 
                             <!-- <td>
@@ -881,7 +881,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATAEU AGRICULTURAL MECHANIZATION</h5>   
                             <td>
-                                433,333.33	
+                                433,333
                             </td>
 
                             <td>
@@ -889,7 +889,7 @@
                             </td>
 
                             <td>
-                                1.85
+                                1.9
                             </td>
 
                             <!-- <td>
@@ -904,7 +904,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE LIBRARY BOARD	</h5>   
                             <td>
-                                8,765,844.25	
+                                8,765,844	
                             </td>
 
                             <td>
@@ -912,7 +912,7 @@
                             </td>
 
                             <td>
-                                1.72
+                                1.7
                             </td>
 
                             <!-- <td>
@@ -927,7 +927,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE LIBRARY BOARD	</h5>   
                             <td>
-                                8,765,844.25	
+                                8,765,844
                             </td>
 
                             <td>
@@ -935,7 +935,7 @@
                             </td>
 
                             <td>
-                                1.72
+                                1.7
                             </td>
 
                             <!-- <td>
@@ -950,7 +950,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE HOSPITALS MANAGEMENT BOARD	</h5>   
                             <td>
-                                1,728,333.33
+                                1,728,333
                             </td>
 
                             <td>
@@ -958,7 +958,7 @@
                             </td>
 
                             <td>
-                                1.06
+                                1.1
                             </td>
 
                             <!-- <td>
@@ -973,7 +973,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF EDUCATION, GINDIRI - PLATEAU		</h5>   
                             <td>
-                                21,591,666.67	
+                                21,591,666
                             </td>
 
                             <td>
@@ -981,7 +981,7 @@
                             </td>
 
                             <td>
-                                1.03
+                                1.0
                             </td>
 
                             <!-- <td>
@@ -996,7 +996,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">JOS MAIN MARKET AUTHORITY - PLATEAU STATE	</h5>   
                             <td>
-                                845,833.33	
+                                845,833
                             </td>
 
                             <td>
@@ -1004,7 +1004,7 @@
                             </td>
 
                             <td>
-                                0.71	
+                                0.7	
                             </td>
 
                             <!-- <td>
@@ -1019,7 +1019,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">OFFICE OF THE HEAD OF CIVIL SERVICE - PLATEAU</h5>   
                             <td>
-                                16,416,666.67	
+                                16,416,666
                             </td>
 
                             <td>
@@ -1027,7 +1027,7 @@
                             </td>
 
                             <td>
-                                0.67
+                                0.7
                             </td>
 
                             <!-- <td>
@@ -1042,7 +1042,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">JOS METROPOLITAN DEVELOPMENT BOARD</h5>   
                             <td>
-                                175,000.00	
+                                175,000
                             </td>
 
                             <td>
@@ -1050,7 +1050,7 @@
                             </td>
 
                             <td>
-                                0.57	
+                                0.6
                             </td>
 
                             <!-- <td>
@@ -1065,7 +1065,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF LANDS, SURVEY AND TOWN	</h5>   
                             <td>
-                                5,000,000.00	
+                                5,000,000	
                             </td>
 
                             <td>
@@ -1073,7 +1073,7 @@
                             </td>
 
                             <td>
-                                0.57
+                                0.6
                             </td>
 
                             <!-- <td>
@@ -1089,7 +1089,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU UNITED FOOTBALL CLUB</h5>   
                             <td>
-                                1,887,500.00	
+                                1,887,500
                             </td>
 
                             <td>
@@ -1097,7 +1097,7 @@
                             </td>
 
                             <td>
-                                0.62	
+                                0.6	
                             </td>
 
                             <!-- <td>
@@ -1112,7 +1112,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF HEALTH TECHNOLOGY, PANKSHIN</h5>   
                             <td>
-                                347,916.67	
+                                347,916
                             </td>
 
                             <td>
@@ -1120,7 +1120,7 @@
                             </td>
 
                             <td>
-                                0.34
+                                0.3
                             </td>
 
                             <!-- <td>
@@ -1136,7 +1136,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF AGRICULTURE AND RURAL	</h5>   
                             <td>
-                                25,887,500.00	
+                                25,887,500
                             </td>
 
                             <td>
@@ -1144,7 +1144,7 @@
                             </td>
 
                             <td>
-                                0.23
+                                0.2
                             </td>
 
                             <!-- <td>
@@ -1160,7 +1160,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE BUREAU OF PUBLIC PROCUREMENT</h5>   
                             <td>
-                                808,333.33
+                                808,333
                             </td>
 
                             <td>
@@ -1168,7 +1168,7 @@
                             </td>
 
                             <td>
-                                0.12
+                                0.1
                             </td>
 
                             <!-- <td>
@@ -1184,7 +1184,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE SCHOLARSHIP BOARD	</h5>   
                             <td>
-                                3,308,333.33	
+                                3,308,333
                             </td>
 
                             <td>
@@ -1192,7 +1192,7 @@
                             </td>
 
                             <td>
-                                0.12
+                                0.1
                             </td>
 
                             <!-- <td>
@@ -1207,7 +1207,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF HOUSING - PLATEAU STATE		</h5>   
                             <td>
-                                1,925,000.00	
+                                1,925,000
                             </td>
 
                             <td>
@@ -1215,7 +1215,7 @@
                             </td>
 
                             <td>
-                                0.03
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1231,7 +1231,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE ENVIRONMENTAL PROTECTION</h5>   
                             <td>
-                                4,254,166.67	
+                                4,254,166
                             </td>
 
                             <td>
@@ -1239,7 +1239,7 @@
                             </td>
 
                             <td>
-                                0.01
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1254,7 +1254,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF ENVIRONMENT	</h5>   
                             <td>
-                                6,257,125.00		
+                                6,257,125	
                             </td>
 
                             <td>
@@ -1262,7 +1262,7 @@
                             </td>
 
                             <td>
-                                0.02
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1277,7 +1277,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE UNIVERSAL BASIC EDUCATION		</h5>   
                             <td>
-                                1,750,000.00			
+                                1,750,000			
                             </td>
 
                             <td>
@@ -1285,7 +1285,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1300,7 +1300,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE SPECIALIST HOSPITAL</h5>   
                             <td>
-                                40,000.00				
+                                40,000			
                             </td>
 
                             <td>
@@ -1308,7 +1308,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1323,7 +1323,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF TOURISM, CULTURE AND HOSPT.	</h5>   
                             <td>
-                                87,500.00			
+                                87,500			
                             </td>
 
                             <td>
@@ -1331,7 +1331,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1346,7 +1346,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE TOURISM CORPORATION		</h5>   
                             <td>
-                                250,000.00		
+                                250,000
                             </td>
 
                             <td>
@@ -1354,7 +1354,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1369,7 +1369,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF WATER RESOURCES AND ENERGY 	</h5>   
                             <td>
-                                9,166,666.67	
+                                9,166,666
                             </td>
 
                             <td>
@@ -1377,7 +1377,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1392,7 +1392,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF PHYSICAL PLANNING AND URBAN DEVELOPMENT		</h5>   
                             <td>
-                                6,666,666.67	
+                                6,666,666
                             </td>
 
                             <td>
@@ -1400,7 +1400,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1415,7 +1415,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE LOCAL GOVERNMENT AUDIT</h5>   
                             <td>
-                                4,583,333.33	
+                                4,583,333
                             </td>
 
                             <td>
@@ -1423,7 +1423,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1438,7 +1438,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF WOMEN AFFAIRS AND SOCIAL	</h5>   
                             <td>
-                                3,541,666.67	
+                                3,541,666	
                             </td>
 
                             <td>
@@ -1446,7 +1446,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1461,7 +1461,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU RADIO TELEVISION CORPORATION-RADIO	</h5>   
                             <td>
-                                2,608,333.33	
+                                2,608,333
                             </td>
 
                             <td>
@@ -1469,7 +1469,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1484,7 +1484,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF HEALTH TECHNOLOGY, ZAWAN</h5>   
                             <td>
-                                2,504,166.67	
+                                2,504,166
                             </td>
 
                             <td>
@@ -1492,7 +1492,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1507,7 +1507,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF WORKS - PLATEAU STATE	</h5>   
                             <td>
-                                1,750,000.00	
+                                1,750,000
                             </td>
 
                             <td>
@@ -1515,7 +1515,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1530,7 +1530,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE RURAL WATER SUP & SAN AGENCY</h5>   
                             <td>
-                                1,670,833.33	
+                                1,670,833
                             </td>
 
                             <td>
@@ -1538,7 +1538,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1553,7 +1553,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE MICROFINANCE DEV AGENCY	</h5>   
                             <td>
-                                521,916.67
+                                521,916
                             </td>
 
                             <td>
@@ -1561,7 +1561,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1576,7 +1576,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU AGRICULTURAL DEVELOPMENT PROGRAMME</h5>   
                             <td>
-                                333,333.33	
+                                333,333
                             </td>
 
                             <td>
@@ -1584,7 +1584,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1599,7 +1599,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE CHRISTIAN PILGRIMS WELFARE	</h5>   
                             <td>
-                                295,833.33	
+                                295,833
                             </td>
 
                             <td>
@@ -1607,7 +1607,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1622,7 +1622,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE LOCAL GOVERNMENT STAFF PENSION BOARD</h5>   
                             <td>
-                                166,666.67	
+                                166,666
                             </td>
 
                             <td>
@@ -1630,7 +1630,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1645,7 +1645,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE RELEVANT TECH BOARD	</h5>   
                             <td>
-                                112,916.67	
+                                112,916
                             </td>
 
                             <td>
@@ -1653,7 +1653,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1668,7 +1668,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE HOUSE OF ASSEMBLY COMMISSION	</h5>   
                             <td>
-                                41,666.67
+                                41,666
                             </td>
 
                             <td>
@@ -1676,7 +1676,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1691,7 +1691,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE DISABILITY RIGHTS COMMISSION</h5>   
                             <td>
-                                33,750.00	
+                                33,750
                             </td>
 
                             <td>
@@ -1699,7 +1699,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1714,7 +1714,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AIDS CONTROL AGENCY	</h5>   
                             <td>
-                                27,083.33	
+                                27,083
                             </td>
 
                             <td>
@@ -1722,7 +1722,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1737,7 +1737,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PRIMARY HEALTH CARE DEVELOPMENT</h5>   
                             <td>
-                                25,000.00	
+                                25,000
                             </td>
 
                             <td>
@@ -1745,7 +1745,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1760,7 +1760,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE ADULT AND NON FORMAL.	</h5>   
                             <td>
-                                22,500.00	
+                                22,500
                             </td>
 
                             <td>
@@ -1768,7 +1768,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1783,7 +1783,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AFORESTATION PROGRAMME	</h5>   
                             <td>
-                                16,666.67	
+                                16,666
                             </td>
 
                             <td>
@@ -1791,7 +1791,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1806,7 +1806,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal text-white">OFFICE OF THE ACCOUNTANT GENERAL - PLATEAU</h5>   
                             <td>
-                                4,166.67	
+                                4,166	
                             </td>
 
                             <td>
@@ -1814,7 +1814,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>
@@ -1829,7 +1829,7 @@
                             <td>
                                 <h5 class="m-0 font-weight-normal text-white">PLATEAU STATE BUREAU OF STATISTICS</h5>   
                             <td>
-                                833.33
+                                833
                             </td>
 
                             <td>
@@ -1837,7 +1837,7 @@
                             </td>
 
                             <td>
-                                0.00
+                                0.0
                             </td>
 
                             <!-- <td>

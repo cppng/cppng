@@ -179,12 +179,12 @@
         <div class="card-body pb-2">
             <div class="float-end d-none d-md-inline-block">
             <div class="btn-group mb-2">
-                <button type="button" class="btn btn-xs btn-light">
+                <!-- <button type="button" class="btn btn-xs btn-light">
                 Today
                 </button>
                 <button type="button" class="btn btn-xs btn-light">
                 Weekly
-                </button>
+                </button> -->
                 <button type="button" class="btn btn-xs btn-secondary">
                 Monthly
                 </button>

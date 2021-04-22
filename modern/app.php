@@ -195,22 +195,22 @@
                             <div class="dropdown-menu user-pro-dropdown">
 
                                 <!-- item-->
-                                <a href="javascript:void(0);" class="dropdown-item notify-item">
+                                <!-- <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <i class="fe-user mr-1"></i>
                                     <span>My Account</span>
-                                </a>
+                                </a> -->
 
                                 <!-- item-->
-                                <a href="javascript:void(0);" class="dropdown-item notify-item">
+                                <!-- <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <i class="fe-settings mr-1"></i>
                                     <span>Settings</span>
-                                </a>
+                                </a> -->
 
                                 <!-- item-->
-                                <a href="javascript:void(0);" class="dropdown-item notify-item">
+                                <!-- <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <i class="fe-lock mr-1"></i>
                                     <span>Lock Screen</span>
-                                </a>
+                                </a> -->
 
                                 <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
@@ -261,7 +261,7 @@
                             <li>
                                 <a href="app.php?page=champions" data-bs-toggle="collapse">
                                     <i data-feather="users"></i>                                    
-                                    <span> Revenue Champions </span>
+                                    <span> IGR Heroes </span>
                                 </a>
                                  
                             </li>
@@ -319,9 +319,9 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="text-md-right footer-links d-none d-sm-block">
-                                    <a href="javascript:void(0);">About Us</a>
+                                    <!-- <a href="javascript:void(0);">About Us</a>
                                     <a href="javascript:void(0);">Help</a>
-                                    <a href="javascript:void(0);">Contact Us</a>
+                                    <a href="javascript:void(0);">Contact Us</a> -->
                                 </div>
                             </div>
                         </div>
