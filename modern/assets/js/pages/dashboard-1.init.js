@@ -102,5 +102,7 @@ options = {
   $("#dash-daterange").flatpickr({
     altInput: true,
     dateFormat: "Y-m",
-    altFormat: "F, y"
+    mode: "single",
+    altFormat: "F, y",
+
   });
