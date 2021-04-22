@@ -102,7 +102,5 @@ options = {
   $("#dash-daterange").flatpickr({
     altInput: true,
     dateFormat: "Y-m",
-    // mode: "range",
-    altFormat: "F, y",
-    defaultDate: "today",
+    altFormat: "F, y"
   });
