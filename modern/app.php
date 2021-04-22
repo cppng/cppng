@@ -137,11 +137,9 @@
                         <a href="index.php" class="logo logo-dark text-center">
                             <span class="logo-sm">
                                 <img src="./assets/images/logo.png" alt="logo" height="42">
-                                <!-- <span class="logo-lg-text-light">UBold</span> -->
                             </span>
                             <span class="logo-lg">
                                 <img src="./assets/images/logo-dark.png" alt="" height="60">
-                                <!-- <span class="logo-lg-text-light">U</span> -->
                             </span>
                         </a>
     
@@ -184,8 +182,6 @@
             <div class="left-side-menu">
 
                 <div class="h-100" data-simplebar>
-
-                    <!-- User box -->
                     <div class="user-box text-center">
                         <img src="./assets/images/person.jpeg" alt="user-img" title="Mat Helme"
                             class="rounded-circle avatar-md">
@@ -193,26 +189,6 @@
                             <a href="javascript: void(0);" class="text-dark font-weight-normal dropdown-toggle h5 mt-2 mb-1 d-block"
                                 data-toggle="dropdown">Stanley Parker</a>
                             <div class="dropdown-menu user-pro-dropdown">
-
-                                <!-- item-->
-                                <!-- <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <i class="fe-user mr-1"></i>
-                                    <span>My Account</span>
-                                </a> -->
-
-                                <!-- item-->
-                                <!-- <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <i class="fe-settings mr-1"></i>
-                                    <span>Settings</span>
-                                </a> -->
-
-                                <!-- item-->
-                                <!-- <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <i class="fe-lock mr-1"></i>
-                                    <span>Lock Screen</span>
-                                </a> -->
-
-                                <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <i class="fe-log-out mr-1"></i>
                                     <span>Logout</span>
@@ -253,6 +229,9 @@
                                         <li>
                                             <a href="app.php?page=commulative">League (Cumulative)</a>
                                         </li>
+                                        <li>
+                                            <a href="./assets/files/Revenue-League-Regulation-Edited.pdf">Revenue League Regulation</a>
+                                        </li>
                                         
                                     </ul>
                                 </div>
@@ -265,32 +244,14 @@
                                 </a>
                                  
                             </li>
-
-                            <li>
-                                <a href="./assets/files/Revenue-League-Regulation-Edited.pdf" data-bs-toggle="collapse" download>
-                                    <i data-feather="airplay"></i>
-                                    
-                                    <span> Rewards </span>
-                                </a>
-                                 
-                            </li>
                                 
                         </ul>
 
                     </div>
-                    <!-- End Sidebar -->
-
                     <div class="clearfix"></div>
-
                 </div>
-                <!-- Sidebar -left -->
-
             </div>
-            <!-- Left Sidebar End -->
-
-            <!-- ============================================================== -->
-            <!-- Start Page Content here -->
-            <!-- ============================================================== -->
+            
 
             <div class="content-page">
                 <div class="content">
@@ -319,9 +280,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="text-md-right footer-links d-none d-sm-block">
-                                    <!-- <a href="javascript:void(0);">About Us</a>
-                                    <a href="javascript:void(0);">Help</a>
-                                    <a href="javascript:void(0);">Contact Us</a> -->
+                                    <a href="index.php">Admin Login</a>
                                 </div>
                             </div>
                         </div>
