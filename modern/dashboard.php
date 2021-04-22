@@ -125,30 +125,25 @@
 
     <div class="col-md-6 col-xl-6">
         <div class="widget-rounded-circle card">
-        <div class="card-body">
-            <div class="row">
-            <div class="col-6">
-                <div
-                class="avatar-lg rounded-circle bg-soft-warning border-warning border"
-                >
-                <i
-                    class="fe-users font-22 avatar-title text-warning"
-                ></i>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="avatar-lg rounded-circle bg-soft-warning border-warning border">
+                            <i class="fe-users font-22 avatar-title text-warning"></i>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="text-end">
+                            <h3 class="text-dark mt-1"><span>557,435 </span></h3>
+                            <p class="text-muted mb-1 text-truncate">
+                                Total Tax Payers
+                            </p>
+                        </div>
+                    </div>
                 </div>
+                <!-- end row-->
             </div>
-            <div class="col-6">
-                <div class="text-end">
-                <h3 class="text-dark mt-1"><span>557,435 </span></h3>
-                <p class="text-muted mb-1 text-truncate">
-                    Total Tax Payers
-                </p>
-                </div>
-            </div>
-            </div>
-            <!-- end row-->
         </div>
-        </div>
-        <!-- end widget-rounded-circle-->
     </div>
     <!-- end col-->
     </div>
@@ -157,20 +152,18 @@
     <div class="row">
     <div class="col-lg-6">
         <div class="card">
-        <div class="card-body">
-            <h4 class="header-title mb-0">Contribution to IGRs</h4>
+            <div class="card-body">
+                <h4 class="header-title mb-0">Contribution to IGRs</h4>
 
-            <div class="widget-chart text-center " dir="ltr">
-            <div
-                id="total-revenue"
-                class="mt-0"
-                data-colors="green"
-            ></div>
+                <div class="widget-chart text-center " dir="ltr">
+                    <div
+                        id="total-revenue"
+                        class="mt-0"
+                        data-colors="green"
+                    ></div>
+                </div>
             </div>
-            <!-- <div class="py-3"></div> -->
         </div>
-        </div>
-        <!-- end card -->
     </div>
     <!-- end col-->
 
@@ -179,14 +172,8 @@
         <div class="card-body pb-2">
             <div class="float-end d-none d-md-inline-block">
             <div class="btn-group mb-2">
-                <button type="button" class="btn btn-xs btn-light">
-                Today
-                </button>
-                <button type="button" class="btn btn-xs btn-light">
-                Weekly
-                </button>
                 <button type="button" class="btn btn-xs btn-secondary">
-                Monthly
+                    Monthly
                 </button>
             </div>
             </div>

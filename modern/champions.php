@@ -57,9 +57,7 @@
                             <th class="font-weight-medium"></th>
                             <th class="font-weight-medium">Name</th>
                             <th class="font-weight-medium">MDA</th>
-                            <th class="font-weight-medium">Staff MDA</th>
-                            <th class="font-weight-medium">Amount Collected</th>
-                            <th class="font-weight-medium">Amount Won</th>
+                            <th class="font-weight-medium">Reward Disbursed</th>
                             
                         </tr>
                     </thead>
@@ -71,9 +69,8 @@
                             </td>
                             <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td>
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
-                            <td>213,750.00</td>    
-                            <td>1,934,000</td>    
-                            <td>90.48</td>    
+                            <td>Car</td>    
+                            
                             
                         </tr>
 
@@ -90,15 +87,7 @@
                             </td>
 
                             <td>
-                                35,174,466.67	
-                            </td>
-
-                            <td>
-                                237,279,147.26
-                            </td>
-
-                            <td>
-                                67.46
+                                House	
                             </td>
 
                             
@@ -116,14 +105,8 @@
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
                             <td>
-                                41,666.67
+                                Land
                             </td>
-
-                            <td>
-                                149,700
-                            </td>
-
-                            <td>35.93</td>
 
                             
 
@@ -144,16 +127,9 @@
                             </td>
 
                             <td>
-                                3,925,000.00	
+                                TV Set	
                             </td>
 
-                            <td>
-                                11,380,048	
-                            </td>
-
-                            <td>
-                                28.99	
-                            </td>
 
                             
                         </tr>
@@ -174,15 +150,7 @@
                             </td>
 
                             <td>
-                                166,666.67	
-                            </td>
-
-                            <td>
-                                340,000	
-                            </td>
-
-                            <td>
-                                20.40	
+                                Generator	
                             </td>
 
                             
