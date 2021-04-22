@@ -57,7 +57,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                 <h3 class="text-dark mt-1">
                     <span>₦947,292,040</span>
                 </h3>
-                <p class="text-muted mb-1 text-truncate">Net IGR</p>
+                <p class="text-muted mb-1 text-truncate">Current IGR</p>
                 </div>
             </div>
             </div>
