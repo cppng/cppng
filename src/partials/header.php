@@ -203,26 +203,25 @@
                             </li>
   
                             <li>
-                                <a href="#sidebarEcommerce" data-toggle="collapse">
+                                <a href="/league">
                                     <i data-feather="share-2"></i>
-                                    <span> Revenue League</span>
-                                    <span class="menu-arrow"></span>
+                                    <span> IGR League</span>
+                                    <!-- <span class="menu-arrow"></span> -->
                                 </a>
-                                <div class="collapse" id="sidebarEcommerce">
+                                <!-- <div class="collapse" id="sidebarEcommerce">
                                     <ul class="nav-second-level">
                                         <li><a href="/league">League (March)</a></li>
                                         <li><a href="/league-cumulative">League (Cumulative)</a></li>
                                         <li><a href="./assets/files/Revenue-League-Regulation-Edited.pdf">Revenue League Regulation</a></li>                                        
                                     </ul>
-                                </div>
+                                </div> -->
                             </li>
 
                             <li>
                                 <a href="/igr-heroes">
                                     <i data-feather="users"></i>                                    
                                     <span> IGR Heroes </span>
-                                </a>
-                                 
+                                </a>                                 
                             </li>
                                 
                         </ul>
