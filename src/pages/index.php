@@ -33,7 +33,29 @@
             </div>
          </div>
 
-        <div class="col-md-6 col-xl-6">
+         <div class="col-md-6 col-xl-6">
+            <div class="widget-rounded-circle card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="avatar-lg rounded-circle bg-soft-pink border-pink border" >
+                                <i class="fe-bar-chart font-22 avatar-title text-pink"></i>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="text-end">
+                                <h3 class="text-dark mt-1">
+                                    <span>₦947,292</span>
+                                </h3>
+                                <p class="text-muted mb-1 text-truncate">Current IGR</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </div>
+
+        <div class="col-md-6 col-xl-3">
             <div class="widget-rounded-circle card">
                 <div class="card-body">
                     <div class="row">
@@ -55,27 +77,7 @@
             </div>
         </div>  
 
-        <div class="col-md-6 col-xl-3">
-            <div class="widget-rounded-circle card">
-                <div class="card-body">
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="avatar-lg rounded-circle bg-soft-pink border-pink border" >
-                                <i class="fe-bar-chart font-22 avatar-title text-pink"></i>
-                            </div>
-                        </div>
-                        <div class="col-6">
-                            <div class="text-end">
-                                <h3 class="text-dark mt-1">
-                                    <span>₦947,292</span>
-                                </h3>
-                                <p class="text-muted mb-1 text-truncate">Current IGR</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </div>
+        
 
         <div class="col-md-6 col-xl-3">
             <div class="widget-rounded-circle card">
