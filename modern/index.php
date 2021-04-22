@@ -1,3 +1,20 @@
+
+
+
+<?php
+  $msg = '';
+  if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if (!empty($_POST['email']) && !empty($_POST['password'])) {
+      header("Location: app.php?page=dashboard");
+    }
+    else {
+      $msg = 'Wrong email or password';
+    }
+
+  }
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -11,26 +28,26 @@
     <meta content="Coderthemes" name="author" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <!-- App favicon -->
-    <link rel="shortcut icon" href="../assets/images/favicon.ico" />
+    <link rel="shortcut icon" href="./assets/images/favicon.ico" />
 
     <!-- App css -->
-        <link href="../assets/libs/flatpickr/flatpickr.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/libs/selectize/css/selectize.bootstrap3.css" rel="stylesheet" type="text/css" />
+        <link href="./assets/libs/flatpickr/flatpickr.min.css" rel="stylesheet" type="text/css" />
+        <link href="./assets/libs/selectize/css/selectize.bootstrap3.css" rel="stylesheet" type="text/css" />
         
         <!-- App css -->
-        <link href="../assets/css/bootstrap-modern.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
-        <link href="../assets/css/app-modern.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
+        <link href="./assets/css/bootstrap-modern.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
+        <link href="./assets/css/app-modern.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
 
-        <link href="../assets/css/bootstrap-modern-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
-        <link href="../assets/css/app-modern-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
+        <link href="./assets/css/bootstrap-modern-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
+        <link href="./assets/css/app-modern-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
 
         <!-- App css -->
-        <link href="../assets/css/config/modern/bootstrap.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
-        <link href="../assets/css/config/modern/app.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
+        <link href="./assets/css/config/modern/bootstrap.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
+        <link href="./assets/css/config/modern/app.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
 
-        <link href="../assets/css/config/modern/bootstrap-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
-        <link href="../assets/css/config/modern/app-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
-        <link href="../assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+        <link href="./assets/css/config/modern/bootstrap-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
+        <link href="./assets/css/config/modern/app-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
+        <link href="./assets/css/icons.min.css" rel="stylesheet" type="text/css" />
   </head>
 
   <body class="loading authentication-bg authentication-bg-pattern">
@@ -45,9 +62,9 @@
                     <a href="/" class="logo logo-dark text-center">
                       <span class="logo-lg">
                         <img
-                          src="../assets/images/logo.png"
+                          src="./assets/images/logo.png"
                           alt=""
-                          height="22"
+                          height="50"
                         />
                       </span>
                     </a>
@@ -55,7 +72,7 @@
                     <a href="" class="logo logo-light text-center">
                       <span class="logo-lg">
                         <img
-                          src="../assets/images/logo-light.png"
+                          src="./assets/images/logo-light.png"
                           alt=""
                           height="22"
                         />
@@ -67,7 +84,7 @@
                   </p>
                 </div>
 
-                <form action="#">
+                <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
                   <div class="mb-3">
                     <label for="emailaddress" class="form-label"
                       >Email address</label
@@ -78,6 +95,7 @@
                       id="emailaddress"
                       required=""
                       placeholder="Enter your email"
+                      name="email"
                     />
                   </div>
 
@@ -89,12 +107,19 @@
                         id="password"
                         class="form-control"
                         placeholder="Enter your password"
+                        name="password"
                       />
                       <div class="input-group-text" data-password="false">
                         <span class="password-eye"></span>
                       </div>
                     </div>
                   </div>
+
+                  <p> 
+                    <?php
+                      echo $msg;
+                    ?>
+                  </p>
 
                   <div class="mb-3">
                     <div class="form-check">
@@ -148,9 +173,9 @@
     <!-- end page -->
 
     <!-- Vendor js -->
-    <script src="../assets/js/vendor.min.js"></script>
+    <script src="./assets/js/vendor.min.js"></script>
 
     <!-- App js -->
-    <script src="../assets/js/app.min.js"></script>
+    <script src="./assets/js/app.min.js"></script>
   </body>
 </html>

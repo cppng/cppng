@@ -54,31 +54,37 @@
                     <thead class="thead-light">
                         <tr>
                             <th class="font-weight-medium">S/N</th>
+                            <th class="font-weight-medium"></th>
+                            <th class="font-weight-medium">Name</th>
                             <th class="font-weight-medium">MDA</th>
                             <th class="font-weight-medium">Staff MDA</th>
                             <th class="font-weight-medium">Amount Collected</th>
                             <th class="font-weight-medium">Amount Won</th>
-                            <th class="font-weight-medium">Action</th>
+                            
                         </tr>
                     </thead>
                     <tbody>
                         <tr class="bg-soft-success">
-                            <td style="width: 36px;">1</td>    
+                            <td style="width: 36px;">1</td>
+                            <td style="width: 36px;">
+                                <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                            </td>
+                            <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td>
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
                             <td>213,750.00</td>    
                             <td>1,934,000</td>    
                             <td>90.48</td>    
-                            <td>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-light"><i class="mdi mdi-plus"></i></a>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-danger"><i class="mdi mdi-minus"></i></a>
-                            </td>
+                            
                         </tr>
 
                         <tr class="bg-soft-success">
                             <td style="width: 36px;">
                                 2
                             </td>
-
+                            <td style="width: 36px;">
+                                <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                            </td>
+                            <td><h5 class="m-0 font-weight-normal">Plantok Larry</h5></td>
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                             </td>
@@ -95,15 +101,17 @@
                                 67.46
                             </td>
 
-                            <td>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-light"><i class="mdi mdi-plus"></i></a>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-danger"><i class="mdi mdi-minus"></i></a>
-                            </td>
+                            
                         </tr>
                         <tr class="bg-soft-success">
                             <td style="width: 36px;">
                                 3	
                             </td>
+                            <td style="width: 36px;">
+                                <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                            </td>
+                            
+                            <td><h5 class="m-0 font-weight-normal">Gyang Choji</h5></td>
                             <td>
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
@@ -117,16 +125,18 @@
 
                             <td>35.93</td>
 
-                            <td>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-light"><i class="mdi mdi-plus"></i></a>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-danger"><i class="mdi mdi-minus"></i></a>
-                            </td>
+                            
 
                         </tr>
                         <tr class="bg-soft-danger">
                             <td style="width: 36px;">
                                 4
                             </td>
+                            <td style="width: 36px;">
+                                <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                            </td>
+                            
+                            <td><h5 class="m-0 font-weight-normal">Sunday Izang</h5></td>
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE	</h5>
@@ -145,18 +155,22 @@
                                 28.99	
                             </td>
 
-                            <td>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-light"><i class="mdi mdi-plus"></i></a>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-danger"><i class="mdi mdi-minus"></i></a>
-                            </td>
+                            
                         </tr>
                         <tr class="bg-soft-danger">
                             <td style="width: 36px;">
                                 5
                             </td>
 
+                            <td style="width: 36px;">
+                                <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                            </td>
+                            
                             <td>
-                                <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE	</h5>
+                                <h5 class="m-0 font-weight-normal">Paulina Bitrus</h5>
+                            </td>
+                            <td>
+                                <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
                             </td>
 
                             <td>
@@ -171,10 +185,7 @@
                                 20.40	
                             </td>
 
-                            <td>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-light"><i class="mdi mdi-plus"></i></a>
-                                <a href="javascript: void(0);" class="btn btn-xs btn-danger"><i class="mdi mdi-minus"></i></a>
-                            </td>
+                            
                         </tr>
                     </tbody>
                 </table>
