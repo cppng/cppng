@@ -57,9 +57,9 @@
                             <th class="font-weight-medium">S/N</th>
                             <th class="font-weight-medium">MDA</th>
                             <th class="font-weight-medium">Target(N)</th>
-                            <th class="font-weight-medium">Current IGR</th>
+                            <th class="font-weight-medium">Actual IGR</th>
                             <th class="font-weight-medium">Point</th>
-                            <th class="font-weight-medium">IGR%</th>
+                            <!-- <th class="font-weight-medium">IGR%</th> -->
                         </tr>
                     </thead>
                     <tbody>
@@ -69,7 +69,7 @@
                             <td>213,750.00</td>    
                             <td>1,934,000</td>    
                             <td>90.48</td>    
-                            <td>904.80%</td>
+                            <!-- <td>904.80%</td> -->
                         </tr>
 
                         <tr class="bg-success">
@@ -93,10 +93,10 @@
                                 67.46
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 674.58%
 
-                            </td>
+                            </td> -->
                         </tr>
                         <tr class="bg-soft-success">
                             <td style="width: 36px;">
@@ -119,10 +119,10 @@
                                 35.93	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 359.28%
 
-                            </td>
+                            </td> -->
 
                         </tr>
                         <tr>
@@ -147,10 +147,10 @@
                                 28.99	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 289.94%
 
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -173,10 +173,10 @@
                                 20.40	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 204.00%
 
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -199,9 +199,9 @@
                                 16.75
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 167.48%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -224,9 +224,9 @@
                                 16.41
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 164.10%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -249,9 +249,9 @@
                                 15.37
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 153.69%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -274,9 +274,9 @@
                                 14.49	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 144.87%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -299,9 +299,9 @@
                                 13.78
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 137.82%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -325,9 +325,9 @@
                                 9.44	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 94.40%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -351,9 +351,9 @@
                                 8.70
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 86.96%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -376,9 +376,9 @@
                                 7.33
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 73.30%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -401,9 +401,9 @@
                                 6.58
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 65.84%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -426,9 +426,9 @@
                                 6.48	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 64.80%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -449,9 +449,9 @@
                                 6.45	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 64.54%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -472,9 +472,9 @@
                                 6.17
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 61.70%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -495,9 +495,9 @@
                                 6.19
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 61.93%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -519,9 +519,9 @@
                                 6.14
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 61.39%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -543,9 +543,9 @@
                                 5.80	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 58.02%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -566,9 +566,9 @@
                                 5.11
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 51.05%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -589,9 +589,9 @@
                                 4.98
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 49.79%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -613,9 +613,9 @@
                                 4.80
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 48.00%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -636,9 +636,9 @@
                                 4.53
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 45.32%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -659,10 +659,10 @@
                                 3.93
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 39.29%
 
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -683,9 +683,9 @@
                                 3.63
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 36.26%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -707,9 +707,9 @@
                                 3.48
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 34.79%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -730,9 +730,9 @@
                                 2.84	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 28.41%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -753,9 +753,9 @@
                                 2.80
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 28.00%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -776,9 +776,9 @@
                                 2.62
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 26.20%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -799,9 +799,9 @@
                                 2.58
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 25.75%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -822,10 +822,10 @@
                                 2.21	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 22.15%
 
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -846,9 +846,9 @@
                                 1.79
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 17.93%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -869,9 +869,9 @@
                                 1.81	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 18.15%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -892,9 +892,9 @@
                                 1.85
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 18.46%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -915,9 +915,9 @@
                                 1.72
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 17.15%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -938,9 +938,9 @@
                                 1.72
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 17.15%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -961,9 +961,9 @@
                                 1.06
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 10.59%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -984,9 +984,9 @@
                                 1.03
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 10.34%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1007,9 +1007,9 @@
                                 0.71	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 7.09%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1030,9 +1030,9 @@
                                 0.67
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 6.66%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1053,9 +1053,9 @@
                                 0.57	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 5.71%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1076,9 +1076,9 @@
                                 0.57
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 5.70%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -1100,9 +1100,9 @@
                                 0.62	
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 6.16%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1123,9 +1123,9 @@
                                 0.34
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 3.45%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -1147,9 +1147,9 @@
                                 0.23
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 2.28%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -1171,9 +1171,9 @@
                                 0.12
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 1.24%
-                            </td>
+                            </td> -->
                         </tr>
                         
                         <tr>
@@ -1195,9 +1195,9 @@
                                 0.12
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 1.21%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1218,9 +1218,9 @@
                                 0.03
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 0.34%
-                            </td>
+                            </td> -->
                         </tr>
 
                         <tr>
@@ -1242,9 +1242,9 @@
                                 0.01
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 0.14%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1265,9 +1265,9 @@
                                 0.02
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 0.18%
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1288,9 +1288,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1311,9 +1311,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1334,9 +1334,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1357,9 +1357,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1380,9 +1380,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1403,9 +1403,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1426,9 +1426,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1449,9 +1449,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1472,9 +1472,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1495,9 +1495,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1518,9 +1518,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1541,9 +1541,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1564,9 +1564,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1587,9 +1587,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1610,9 +1610,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1633,9 +1633,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1656,9 +1656,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1679,9 +1679,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1702,9 +1702,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1725,9 +1725,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1748,9 +1748,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr>
                             <td style="width: 36px;">
@@ -1771,9 +1771,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr class="bg-soft-danger">
                             <td style="width: 36px;">
@@ -1794,9 +1794,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr class="bg-danger text-white">
                             <td style="width: 36px;">
@@ -1817,9 +1817,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         <tr class="text-white" style="background-color: #a72626;">
                             <td style="width: 36px;">
@@ -1840,9 +1840,9 @@
                                 0.00
                             </td>
 
-                            <td>
+                            <!-- <td>
                                 -
-                            </td>
+                            </td> -->
                         </tr>
                         
 
