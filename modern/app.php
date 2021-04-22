@@ -136,7 +136,7 @@
                     <div class="logo-box">
                         <a href="index.php" class="logo logo-dark text-center">
                             <span class="logo-sm">
-                                <img src="./assets/images/logo-sm.png" alt="logo" height="42">
+                                <img src="./assets/images/logo.png" alt="logo" height="42">
                                 <!-- <span class="logo-lg-text-light">UBold</span> -->
                             </span>
                             <span class="logo-lg">
@@ -145,9 +145,9 @@
                             </span>
                         </a>
     
-                        <a href="index.html" class="logo logo-light text-center">
+                        <a href="" class="logo logo-light text-center">
                             <span class="logo-sm">
-                                <img src="./assets/images/logo-sm.png" alt="" height="42">
+                                <img src="./assets/images/logo.png" alt="" height="42">
                             </span>
                             <span class="logo-lg">
                                 <img src="./assets/images/logo-light.png" alt="" height="60">
@@ -315,7 +315,7 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-md-6">
-                                <script>document.write(new Date().getFullYear())</script> &copy; UBold theme by <a href="">Coderthemes</a> 
+                                <script>document.write(new Date().getFullYear())</script> &copy; Powered by <a href="">CPP</a> 
                             </div>
                             <div class="col-md-6">
                                 <div class="text-md-right footer-links d-none d-sm-block">

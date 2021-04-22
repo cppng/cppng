@@ -44,7 +44,7 @@
               <div class="card-body p-4">
                 <div class="text-center w-75 m-auto">
                   <div class="auth-logo">
-                    <a href="index.html" class="logo logo-dark text-center">
+                    <a href="" class="logo logo-dark text-center">
                       <span class="logo-lg">
                         <img
                           src="../assets/images/logo-dark.png"
@@ -54,7 +54,7 @@
                       </span>
                     </a>
 
-                    <a href="index.html" class="logo logo-light text-center">
+                    <a href="#" class="logo logo-light text-center">
                       <span class="logo-lg">
                         <img
                           src="../assets/images/logo-light.png"

@@ -45,14 +45,14 @@
                     <a href="/" class="logo logo-dark text-center">
                       <span class="logo-lg">
                         <img
-                          src="../assets/images/logo-dark.png"
+                          src="../assets/images/logo.png"
                           alt=""
                           height="22"
                         />
                       </span>
                     </a>
 
-                    <a href="index.html" class="logo logo-light text-center">
+                    <a href="" class="logo logo-light text-center">
                       <span class="logo-lg">
                         <img
                           src="../assets/images/logo-light.png"
