@@ -6,7 +6,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
         <div class="page-title-box">
             <div class="page-title-right">
                 <form class="form-inline">
-                    <a href="javascript: void(0);" class="btn btn-blue btn-sm mr-2">
+                    <a href="" class="btn btn-blue btn-sm mr-2">
                         <!-- <i class="mdi mdi-filter-variant"></i> -->
                         Current
                     </a>
@@ -20,7 +20,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                             </div>
                         </div>
                     </div>
-                    <a href="javascript: void(0);" class="btn btn-blue btn-sm ml-2">
+                    <a href="/league-cumulative" class="btn btn-blue btn-sm ml-2">
                         <!-- <i class="mdi mdi-autorenew"></i> -->
                         Cummulative
                     </a>
