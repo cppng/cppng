@@ -1,5 +1,5 @@
 <?php
-include_once PAGE_PARTIALS_PATH . DS . 'header.php';
+    include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 ?>
     <div class="row">
         <div class="col-12">
@@ -25,7 +25,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h3 class="text-dark mt-1">
                                     <span>₦947,292,040</span>
                                 </h3>
-                                <p class="text-muted mb-1 text-truncate">Current IGR</p>
+                                <p class="text-muted mb-1 text-truncate">Target IGR</p>
                             </div>
                         </div>
                     </div>
@@ -47,13 +47,57 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h3 class="text-dark mt-1">
                                     <span>₦1,026,353,980</span>
                                 </h3>
-                                <p class="text-muted mb-1 text-truncate">Shortfall</p>
+                                <p class="text-muted mb-1 text-truncate">Cumulative Shortfall</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>    
+        </div>  
+
+        <div class="col-md-6 col-xl-6">
+            <div class="widget-rounded-circle card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="avatar-lg rounded-circle bg-soft-pink border-pink border" >
+                                <i class="fe-bar-chart font-22 avatar-title text-pink"></i>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="text-end">
+                                <h3 class="text-dark mt-1">
+                                    <span>₦947,292</span>
+                                </h3>
+                                <p class="text-muted mb-1 text-truncate">Current IGR</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </div>
+
+        <div class="col-md-6 col-xl-6">
+            <div class="widget-rounded-circle card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="avatar-lg rounded-circle bg-soft-blue border-blue border">
+                                <i class="fe-arrow-down-left font-22 avatar-title text-blue"></i>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="text-end">
+                                <h3 class="text-dark mt-1">
+                                    <span>₦1,026,353</span>
+                                </h3>
+                                <p class="text-muted mb-1 text-truncate">Current Shortfall</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  
 
         <div class="col-md-6 col-xl-6">
             <div class="widget-rounded-circle card">
@@ -102,37 +146,37 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
     <!-- end row-->
 
     <div class="row">
-    <div class="col-lg-6">
-        <div class="card">
-            <div class="card-body">
-                <h4 class="header-title mb-0">Contribution to IGRs</h4>
-                <div class="widget-chart text-center " dir="ltr">
-                    <div id="total-revenue" class="mt-0" data-colors="green"></div>
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="header-title mb-0">Contribution to IGRs</h4>
+                    <div class="widget-chart text-center " dir="ltr">
+                        <div id="total-revenue" class="mt-0" data-colors="green"></div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="col-lg-6">
-        <div class="card">
-            <div class="card-body pb-2">
-                <div class="float-end d-none d-md-inline-block">
-                    <div class="btn-group mb-2">
-                        <button type="button" class="btn btn-xs btn-secondary">
-                            Monthly
-                        </button>
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-body pb-2">
+                    <div class="float-end d-none d-md-inline-block">
+                        <div class="btn-group mb-2">
+                            <button type="button" class="btn btn-xs btn-secondary">
+                                Monthly
+                            </button>
+                        </div>
+                    </div>
+                    <h4 class="header-title mb-3">IGR Chart</h4>
+
+                    <div dir="ltr">
+                        <div id="sales-analytics" class="mt-4" data-colors="#43bfe5,#6c757d"></div>
                     </div>
                 </div>
-                <h4 class="header-title mb-3">IGR Chart</h4>
-
-                <div dir="ltr">
-                    <div id="sales-analytics" class="mt-4" data-colors="#43bfe5,#6c757d"></div>
-                </div>
-            </div>
-        </div>        
-    </div>
-</div> 
+            </div>        
+        </div>
+    </div> 
 
 <?php
-include_once PAGE_PARTIALS_PATH . DS . 'footer.php';
+    include_once PAGE_PARTIALS_PATH . DS . 'footer.php';
 ?>
