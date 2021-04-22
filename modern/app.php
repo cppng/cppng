@@ -20,28 +20,28 @@
         <meta content="Coderthemes" name="author" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <!-- App favicon -->
-        <link rel="shortcut icon" href="https://psirs-reporting.herokuapp.com/assets/images/favicon.ico">
+        <link rel="shortcut icon" href="./assets/images/favicon.ico">
 
         <!-- Plugins css -->
-        <link href="https://psirs-reporting.herokuapp.com/assets/libs/flatpickr/flatpickr.min.css" rel="stylesheet" type="text/css" />
-        <link href="https://psirs-reporting.herokuapp.com/assets/libs/selectize/css/selectize.bootstrap3.css" rel="stylesheet" type="text/css" />
+        <link href="./assets/libs/flatpickr/flatpickr.min.css" rel="stylesheet" type="text/css" />
+        <link href="./assets/libs/selectize/css/selectize.bootstrap3.css" rel="stylesheet" type="text/css" />
         
         <!-- App css -->
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/bootstrap-modern.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/app-modern.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
+        <link href="./assets/css/bootstrap-modern.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
+        <link href="./assets/css/app-modern.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
 
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/bootstrap-modern-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/app-modern-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
+        <link href="./assets/css/bootstrap-modern-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
+        <link href="./assets/css/app-modern-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
 
         <!-- App css -->
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/config/modern/bootstrap.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/config/modern/app.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
+        <link href="./assets/css/config/modern/bootstrap.min.css" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
+        <link href="./assets/css/config/modern/app.min.css" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
 
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/config/modern/bootstrap-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/config/modern/app-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
+        <link href="./assets/css/config/modern/bootstrap-dark.min.css" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
+        <link href="./assets/css/config/modern/app-dark.min.css" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
 
         <!-- icons -->
-        <link href="https://psirs-reporting.herokuapp.com/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+        <link href="./assets/css/icons.min.css" rel="stylesheet" type="text/css" />
 
     </head>
 
@@ -90,7 +90,7 @@
     
                         <li class="dropdown notification-list topbar-dropdown">
                             <a class="nav-link dropdown-toggle nav-user mr-0 waves-effect waves-light" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-                                <img src="https://psirs-reporting.herokuapp.com/assets/images/person.jpeg" alt="user-image" class="rounded-circle">
+                                <img src="./assets/images/person.jpeg" alt="user-image" class="rounded-circle">
                                 <span class="pro-user-name ml-1">
                                     Stanley <i class="mdi mdi-chevron-down"></i> 
                                 </span>
@@ -136,21 +136,21 @@
                     <div class="logo-box">
                         <a href="index.php" class="logo logo-dark text-center">
                             <span class="logo-sm">
-                                <img src="https://psirs-reporting.herokuapp.com/assets/images/logo-sm.png" alt="logo" height="42">
+                                <img src="./assets/images/logo-sm.png" alt="logo" height="42">
                                 <!-- <span class="logo-lg-text-light">UBold</span> -->
                             </span>
                             <span class="logo-lg">
-                                <img src="https://psirs-reporting.herokuapp.com/assets/images/logo-dark.png" alt="" height="60">
+                                <img src="./assets/images/logo-dark.png" alt="" height="60">
                                 <!-- <span class="logo-lg-text-light">U</span> -->
                             </span>
                         </a>
     
                         <a href="index.html" class="logo logo-light text-center">
                             <span class="logo-sm">
-                                <img src="https://psirs-reporting.herokuapp.com/assets/images/logo-sm.png" alt="" height="42">
+                                <img src="./assets/images/logo-sm.png" alt="" height="42">
                             </span>
                             <span class="logo-lg">
-                                <img src="https://psirs-reporting.herokuapp.com/assets/images/logo-light.png" alt="" height="60">
+                                <img src="./assets/images/logo-light.png" alt="" height="60">
                             </span>
                         </a>
                     </div>
@@ -187,7 +187,7 @@
 
                     <!-- User box -->
                     <div class="user-box text-center">
-                        <img src="https://psirs-reporting.herokuapp.com/assets/images/person.jpeg" alt="user-img" title="Mat Helme"
+                        <img src="./assets/images/person.jpeg" alt="user-img" title="Mat Helme"
                             class="rounded-circle avatar-md">
                         <div class="dropdown">
                             <a href="javascript: void(0);" class="text-dark font-weight-normal dropdown-toggle h5 mt-2 mb-1 d-block"
@@ -267,7 +267,7 @@
                             </li>
 
                             <li>
-                                <a href="https://psirs-reporting.herokuapp.com/assets/files/Revenue-League-Regulation-Edited.pdf" data-bs-toggle="collapse" download>
+                                <a href="./assets/files/Revenue-League-Regulation-Edited.pdf" data-bs-toggle="collapse" download>
                                     <i data-feather="airplay"></i>
                                     
                                     <span> Rewards </span>
@@ -345,19 +345,19 @@
         <div class="rightbar-overlay"></div>
 
         <!-- Vendor js -->
-        <script src="https://psirs-reporting.herokuapp.com/assets/js/vendor.min.js"></script>
+        <script src="./assets/js/vendor.min.js"></script>
 
         <!-- Plugins js-->
-        <script src="https://psirs-reporting.herokuapp.com/assets/libs/flatpickr/flatpickr.min.js"></script>
-        <script src="https://psirs-reporting.herokuapp.com/assets/libs/apexcharts/apexcharts.min.js"></script>
+        <script src="./assets/libs/flatpickr/flatpickr.min.js"></script>
+        <script src="./assets/libs/apexcharts/apexcharts.min.js"></script>
 
-        <script src="https://psirs-reporting.herokuapp.com/assets/libs/selectize/js/standalone/selectize.min.js"></script>
+        <script src="./assets/libs/selectize/js/standalone/selectize.min.js"></script>
 
         <!-- Dashboar 1 init js-->
-        <script src="https://psirs-reporting.herokuapp.com/assets/js/pages/dashboard-1.init.js"></script>
+        <script src="./assets/js/pages/dashboard-1.init.js"></script>
 
         <!-- App js-->
-        <script src="https://psirs-reporting.herokuapp.com/assets/js/app.min.js"></script>
+        <script src="./assets/js/app.min.js"></script>
         
     </body>
 </html>
