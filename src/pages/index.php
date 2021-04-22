@@ -38,8 +38,8 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                 <div class="card-body">
                     <div class="row">
                         <div class="col-6">
-                            <div class="avatar-lg rounded-circle bg-soft-danger border-red border">
-                                <i class="fe-arrow-down-left font-22 avatar-title text-white"></i>
+                            <div class="avatar-lg rounded-circle bg-soft-blue border-blue border">
+                                <i class="fe-arrow-down-left font-22 avatar-title text-blue"></i>
                             </div>
                         </div>
                         <div class="col-6">
