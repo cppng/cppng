@@ -196,12 +196,10 @@
                             <li class="menu-title">Navigation</li>
                 
                             <li>
-                                <a href="app.php?page=dashboard" data-bs-toggle="collapse">
-                                    <i data-feather="airplay"></i>
-                                    
+                                <a href="/">
+                                    <i data-feather="airplay"></i>                                    
                                     <span> Dashboards </span>
-                                </a>
-                                 
+                                </a>                                 
                             </li>
   
                             <li>
@@ -212,22 +210,15 @@
                                 </a>
                                 <div class="collapse" id="sidebarEcommerce">
                                     <ul class="nav-second-level">
-                                        <li>
-                                            <a href="app.php?page=league_month">League (March)</a>
-                                        </li>
-                                        <li>
-                                            <a href="app.php?page=commulative">League (Cumulative)</a>
-                                        </li>
-                                        <li>
-                                            <a href="./assets/files/Revenue-League-Regulation-Edited.pdf">Revenue League Regulation</a>
-                                        </li>
-                                        
+                                        <li><a href="/league">League (March)</a></li>
+                                        <li><a href="/league/commulative">League (Cumulative)</a></li>
+                                        <li><a href="./assets/files/Revenue-League-Regulation-Edited.pdf">Revenue League Regulation</a></li>                                        
                                     </ul>
                                 </div>
                             </li>
 
                             <li>
-                                <a href="app.php?page=champions" data-bs-toggle="collapse">
+                                <a href="/igr-heroes">
                                     <i data-feather="users"></i>                                    
                                     <span> IGR Heroes </span>
                                 </a>
