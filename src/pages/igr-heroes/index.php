@@ -20,26 +20,35 @@
                 <div class="row justify-content-between">
                     <div class="col-md-8">
                         <form class="d-flex flex-wrap align-items-center">
-                            <label for="inputPassword2" class="visually-hidden">Search</label>
+                            <!-- <label for="inputPassword2" class="visually-hidden">Search</label>
                             <div class="me-3">
                                 <input type="search" class="form-control my-1 my-md-0" id="inputPassword2" placeholder="Search...">
-                            </div>
-                            <label for="status-select" class="me-2">Sort By</label>
+                            </div> -->
+                            <label for="status-select" class="me-2">Sort By Previous Month</label>
                             <div class="me-sm-3">
                                 <select class="form-select my-1 my-md-0" id="status-select">
                                     <option>Select</option>
-                                    <option>Date</option>
-                                    <option selected="">Name</option>
-                                    <option>Revenue</option>
-                                    <option>Employees</option>
+                                    <option>January</option>
+                                    <option>Febuary</option>
+                                    <option selected="">March</option>
+                                    <option>April</option>
+                                    <option>May</option>
+                                    <option>June</option>
+                                    <option>July</option>
+                                    <option>August</option>
+                                    <option>September</option>
+                                    <option>October</option>
+                                    <option>November</option>
+                                    <option>Devember</option>
                                 </select>
                             </div>
                         </form>
                     </div>
                     <div class="col-md-4">
                         <div class="text-md-end mt-3 mt-md-0">
-                            <button type="button" class="btn btn-success waves-effect waves-light me-1"><i class="mdi mdi-cog"></i></button>
-                            <button type="button" class="btn btn-danger waves-effect waves-light me-1"><i class="mdi mdi-plus-circle me-1"></i> Add New</button>
+                            <!-- <button type="button" class="btn btn-success waves-effect waves-light me-1"><i class="mdi mdi-cog"></i></button> -->
+                            <a href="" class="btn btn-primary waves-effect waves-light me-1"><i class="mdi mdi-users me-1"></i> MDA Rewards</a>
+                            <a href="" class="btn btn-info waves-effect waves-light me-1"><i class="mdi mdi-users me-1"></i> Individual Rewards</a>
                         </div>
                     </div><!-- end col-->
                 </div> <!-- end row -->
