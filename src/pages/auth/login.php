@@ -62,22 +62,22 @@
                     </a>
                   </div>
                   <p class="text-muted mb-4 mt-3">
-                    Enter your email address and password to access admin panel.
+                    Login to continue.
                   </p>
                 </div>
 
                 <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
                   <div class="mb-3">
                     <label for="emailaddress" class="form-label"
-                      >Email address</label
+                      >Username</label
                     >
                     <input
                       class="form-control"
-                      type="email"
+                      type="text"
                       id="emailaddress"
                       required=""
                       placeholder="Enter your email"
-                      name="email"
+                      name="username"
                     />
                   </div>
 
@@ -98,11 +98,11 @@
                   </div>
 
                   <p> 
-                    <?php
+                    <?php if(isset($msg)) {
                       echo $msg;
-                    ?>
+                    } ?>
                   </p>
-
+                  <!--
                   <div class="mb-3">
                     <div class="form-check">
                       <input
@@ -116,6 +116,7 @@
                       >
                     </div>
                   </div>
+                  -->
 
                   <div class="text-center d-grid">
                     <button class="btn btn-primary" type="submit">
@@ -127,7 +128,7 @@
               <!-- end card-body -->
             </div>
             <!-- end card -->
-
+            <!--
             <div class="row mt-3">
               <div class="col-12 text-center">
                 <p>
@@ -142,8 +143,8 @@
                   >
                 </p>
               </div>
-              <!-- end col -->
             </div>
+            -->
             <!-- end row -->
           </div>
           <!-- end col -->
