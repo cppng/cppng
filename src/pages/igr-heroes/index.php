@@ -20,7 +20,7 @@
                 <div class="row justify-content-between">
                     <div class="col-md-8">
                         <form class="d-flex flex-wrap align-items-center">
-                            <label class="form-label">Sort By Previous Month</label>
+                            <label class="form-label">Previous Month</label>
                             <div class="me-sm-3">
                                 <select class="form-control my-1 my-md-0">
                                     <option>Select</option>
