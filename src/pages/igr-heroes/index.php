@@ -20,17 +20,13 @@
                 <div class="row justify-content-between">
                     <div class="col-md-8">
                         <form class="d-flex flex-wrap align-items-center">
-                            <!-- <label for="inputPassword2" class="visually-hidden">Search</label>
-                            <div class="me-3">
-                                <input type="search" class="form-control my-1 my-md-0" id="inputPassword2" placeholder="Search...">
-                            </div> -->
-                            <label for="status-select" class="me-2">Sort By Previous Month</label>
+                            <label class="form-label">Sort By Previous Month</label>
                             <div class="me-sm-3">
-                                <select class="form-select my-1 my-md-0" id="status-select">
+                                <select class="form-control my-1 my-md-0">
                                     <option>Select</option>
                                     <option>January</option>
                                     <option>Febuary</option>
-                                    <option selected="">March</option>
+                                    <option selected>March</option>
                                     <option>April</option>
                                     <option>May</option>
                                     <option>June</option>
@@ -39,7 +35,7 @@
                                     <option>September</option>
                                     <option>October</option>
                                     <option>November</option>
-                                    <option>Devember</option>
+                                    <option>December</option>
                                 </select>
                             </div>
                         </form>
