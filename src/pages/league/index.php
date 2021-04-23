@@ -20,7 +20,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                             </div>
                         </div>
                     </div>
-                    <a href="/league/cumulative" class="btn btn-blue btn-sm ml-2">
+                    <a href="/league/cummulative" class="btn btn-blue btn-sm ml-2">
                         <!-- <i class="mdi mdi-autorenew"></i> -->
                         Cummulative
                     </a>
