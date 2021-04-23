@@ -1,7 +1,43 @@
 <?php
     include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 ?>
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-2">
+            <div class="card-body">
+                <div class="row justify-content-between">
+                    <div class="col-auto">
+                        <form class="d-flex flex-wrap align-items-center">
+                            <label for="inputPassword2" class="visually-hidden">Search</label>
+                            <div class="me-3">
+                                <input type="search" class="form-control my-1 my-md-0" id="inputPassword2" placeholder="Search...">
+                            </div>
+                            <label for="status-select" class="me-2">Sort By</label>
+                            <div class="me-sm-3">
+                                <select class="form-select my-1 my-md-0" id="status-select">
+                                    <option selected="">All</option>
+                                    <option value="1">Hot</option>
+                                    <option value="2">Cold</option>
+                                    <option value="3">In Progress</option>
+                                    <option value="4">Lost</option>
+                                    <option value="5">Won</option>
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="text-md-end mt-3 mt-md-0">
+                            <button type="button" class="btn btn-success waves-effect waves-light me-1"><i class="mdi mdi-cog"></i></button>
+                            <button type="button" class="btn btn-danger waves-effect waves-light" data-bs-toggle="modal" data-bs-target="#custom-modal"><i class="mdi mdi-plus-circle me-1"></i> Add New</button>
+                        </div>
+                    </div><!-- end col-->
+                </div> <!-- end row -->
+            </div> <!-- end card-body-->
+        </div>
+    </div>
+</div>
 
+</div>
 <div class="row">
     <div class="col-12">
         <div class="page-title-box">
