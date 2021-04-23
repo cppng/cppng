@@ -7,7 +7,6 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
             <div class="page-title-right">
                 <form class="form-inline">
                     <a href="" class="btn btn-blue btn-sm mr-2">
-                        <!-- <i class="mdi mdi-filter-variant"></i> -->
                         Current
                     </a>
                     <div class="form-group">
@@ -21,19 +20,14 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                         </div>
                     </div>
                     <a href="/league/cummulative" class="btn btn-blue btn-sm ml-2">
-                        <!-- <i class="mdi mdi-autorenew"></i> -->
                         Cummulative
-                    </a>
-                    
+                    </a>                    
                 </form>
             </div>
             <h4 class="page-title">Revenue League</h4>
         </div>
     </div>
 </div>     
-<!-- end page title --> 
-
-
 
 <div class="row">
     <div class="col-xl-12">
