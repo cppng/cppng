@@ -5,7 +5,7 @@ $REQ_URI = $_SERVER['REQUEST_URI'];
 $URI_SEG = explode('?', $REQ_URI);
 $REQ_PAGES = $URI_SEG[0] == '/' ? ['index'] :  explode('/', trim(preg_replace('~/{2,}~', '/', $URI_SEG[0]), '/'));
 
-$LOGGED_IN_ADMIN = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['AUTH_USER'] : FALSE;
+$LOGGED_IN_ADMIN = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADMIN'] : FALSE;
 
 if(strtolower($REQ_PAGES[0]) === 'admin' && ! $LOGGED_IN_ADMIN) {
   header('Location: /auth/login');

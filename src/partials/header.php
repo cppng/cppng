@@ -1,3 +1,6 @@
+<?php
+$isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADMIN'] : FALSE;
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -76,7 +79,7 @@
                             </a>
                         </li>
     
-    
+                        <?php if ($isAdmin){ ?>
                         <li class="dropdown notification-list topbar-dropdown">
                             <a class="nav-link dropdown-toggle nav-user mr-0 waves-effect waves-light" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
                                 <img src="/assets/images/person.jpeg" alt="user-image" class="rounded-circle">
@@ -118,7 +121,7 @@
     
                             </div>
                         </li>
-    
+                        <?php } ?>
                     </ul>
     
                     <!-- LOGO -->
@@ -171,6 +174,7 @@
             <div class="left-side-menu">
 
                 <div class="h-100" data-simplebar>
+                    <?php if($isAdmin) { ?>
                     <div class="user-box text-center">
                         <img src="/assets/images/person.jpeg" alt="user-img" title="Mat Helme"
                             class="rounded-circle avatar-md">
@@ -187,7 +191,7 @@
                         </div>
                         <p class="text-muted">Admin Head</p>
                     </div>
-
+                    <?php } ?>
                     <!--- Sidemenu -->
                     <div id="sidebar-menu">
 
