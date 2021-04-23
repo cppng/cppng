@@ -3,6 +3,8 @@ ini_set("display_errors", 1);
 ini_set("error_reporting", E_ALL);
 ini_set("display_startup_errors", 1);
 
+session_start();
+
 define('DS', DIRECTORY_SEPARATOR);
 define('ROOT_DIR', dirname(__DIR__, 1));
 define('PUBLIC_PATH', __DIR__);
