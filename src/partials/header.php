@@ -79,7 +79,7 @@
     
                         <li class="dropdown notification-list topbar-dropdown">
                             <a class="nav-link dropdown-toggle nav-user mr-0 waves-effect waves-light" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-                                <img src="./assets/images/person.jpeg" alt="user-image" class="rounded-circle">
+                                <img src="/assets/images/person.jpeg" alt="user-image" class="rounded-circle">
                                 <span class="pro-user-name ml-1">
                                     Stanley <i class="mdi mdi-chevron-down"></i> 
                                 </span>
@@ -125,19 +125,19 @@
                     <div class="logo-box">
                         <a href="index.php" class="logo logo-dark text-center">
                             <span class="logo-sm">
-                                <img src="./assets/images/logo.png" alt="logo" height="42">
+                                <img src="/assets/images/logo.png" alt="logo" height="42">
                             </span>
                             <span class="logo-lg">
-                                <img src="./assets/images/logo-dark.png" alt="" height="60">
+                                <img src="/assets/images/logo-dark.png" alt="" height="60">
                             </span>
                         </a>
     
                         <a href="" class="logo logo-light text-center">
                             <span class="logo-sm">
-                                <img src="./assets/images/logo.png" alt="" height="42">
+                                <img src="/assets/images/logo.png" alt="" height="42">
                             </span>
                             <span class="logo-lg">
-                                <img src="./assets/images/logo-light.png" alt="" height="60">
+                                <img src="/assets/images/logo-light.png" alt="" height="60">
                             </span>
                         </a>
                     </div>
@@ -172,7 +172,7 @@
 
                 <div class="h-100" data-simplebar>
                     <div class="user-box text-center">
-                        <img src="./assets/images/person.jpeg" alt="user-img" title="Mat Helme"
+                        <img src="/assets/images/person.jpeg" alt="user-img" title="Mat Helme"
                             class="rounded-circle avatar-md">
                         <div class="dropdown">
                             <a href="javascript: void(0);" class="text-dark font-weight-normal dropdown-toggle h5 mt-2 mb-1 d-block"
