@@ -1,12 +1,24 @@
 <?php
     include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 ?>
+
+
+</div>
 <div class="row">
     <div class="col-12">
-        <div class="card mb-2">
+        <div class="page-title-box">            
+            <h4 class="page-title">REVENUE CHAMPIONS</h4>
+        </div>
+    </div>
+</div>     
+<!-- end page title --> 
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
             <div class="card-body">
                 <div class="row justify-content-between">
-                    <div class="col-auto">
+                    <div class="col-md-8">
                         <form class="d-flex flex-wrap align-items-center">
                             <label for="inputPassword2" class="visually-hidden">Search</label>
                             <div class="me-3">
@@ -15,12 +27,11 @@
                             <label for="status-select" class="me-2">Sort By</label>
                             <div class="me-sm-3">
                                 <select class="form-select my-1 my-md-0" id="status-select">
-                                    <option selected="">All</option>
-                                    <option value="1">Hot</option>
-                                    <option value="2">Cold</option>
-                                    <option value="3">In Progress</option>
-                                    <option value="4">Lost</option>
-                                    <option value="5">Won</option>
+                                    <option>Select</option>
+                                    <option>Date</option>
+                                    <option selected="">Name</option>
+                                    <option>Revenue</option>
+                                    <option>Employees</option>
                                 </select>
                             </div>
                         </form>
@@ -28,45 +39,14 @@
                     <div class="col-md-4">
                         <div class="text-md-end mt-3 mt-md-0">
                             <button type="button" class="btn btn-success waves-effect waves-light me-1"><i class="mdi mdi-cog"></i></button>
-                            <button type="button" class="btn btn-danger waves-effect waves-light" data-bs-toggle="modal" data-bs-target="#custom-modal"><i class="mdi mdi-plus-circle me-1"></i> Add New</button>
+                            <button type="button" class="btn btn-danger waves-effect waves-light me-1"><i class="mdi mdi-plus-circle me-1"></i> Add New</button>
                         </div>
                     </div><!-- end col-->
                 </div> <!-- end row -->
-            </div> <!-- end card-body-->
-        </div>
-    </div>
-</div>
-
-</div>
-<div class="row">
-    <div class="col-12">
-        <div class="page-title-box">
-            <div class="page-title-right">
-                <form class="form-inline">
-                    <div class="form-group">
-                        <div class="input-group input-group-sm">
-                            <input type="text" class="form-control border-0 shadow" id="dash-daterange">
-                            <div class="input-group-append">
-                                <span class="input-group-text bg-blue border-blue text-white">
-                                    <i class="mdi mdi-calendar-range"></i>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <a href="javascript: void(0);" class="btn btn-blue btn-sm ml-2">
-                        <i class="mdi mdi-autorenew"></i>
-                    </a>
-                    <a href="javascript: void(0);" class="btn btn-blue btn-sm ml-1">
-                        <i class="mdi mdi-filter-variant"></i>
-                    </a>
-                </form>
             </div>
-            <h4 class="page-title">REVENUE CHAMPIONS</h4>
-        </div>
-    </div>
-</div>     
-<!-- end page title --> 
-
+        </div> <!-- end card -->
+    </div><!-- end col-->
+</div>
 
 
 <div class="row">
