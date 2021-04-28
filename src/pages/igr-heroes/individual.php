@@ -61,7 +61,7 @@
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE CHAMPIONS</h4>
 
             <div class="table-responsive">
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_january" style="display:table">
 
                     <thead class="thead-light">
                         <tr>
@@ -116,6 +116,126 @@
                             <td style="width: 36px;"><img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important"></td>                            
                             <td><h5 class="m-0 font-weight-normal">PAULINA BITRUS</h5></td>
                             <td><h5 class="m-0 font-weight-normal">Plateau state internal revenue service</h5></td>
+                            <td>Generator</td>                            
+                        </tr>
+                    </tbody>
+                </table>
+
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_february" style="display:none">
+
+                    <thead class="thead-light">
+                        <tr>
+                            <th class="font-weight-medium">S/N</th>
+                            <th class="font-weight-medium"></th>
+                            <th class="font-weight-medium">Name</th>
+                            <th class="font-weight-medium">DEPARTMENT</th>
+                            <th class="font-weight-medium">Reward Disbursed</th>                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="bg-soft-success">
+                            <td style="width: 36px;">1</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>
+                            <td><h5 class="m-0 font-weight-normal">CHUWANG DUSU</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state muslim pilgrims welfare</h5></td>    
+                            <td>Car</td>
+                        </tr>
+
+                        <tr class="bg-soft-success">
+                            <td style="width: 36px;">2</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>
+                            <td><h5 class="m-0 font-weight-normal">GYANG CHOJI</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state audit department</h5></td>
+                            <td>House</td>                            
+                        </tr>
+                        <tr class="bg-soft-success">
+                            <td style="width: 36px;">3</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>
+                            
+                            <td><h5 class="m-0 font-weight-normal">PLANTOK LARRY</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Kabong market</h5></td>
+                            <td>Land</td>
+                        </tr>
+                        <tr class="bg-soft-danger">
+                            <td style="width: 36px;">4</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>                            
+                            <td><h5 class="m-0 font-weight-normal">JULNA DURFA</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state fire service directorate	</h5></td>
+                            <td>TV Set</td>
+                        </tr>
+                        <tr class="bg-soft-danger">
+                            <td style="width: 36px;">5</td>
+                            <td style="width: 36px;"><img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important"></td>                            
+                            <td><h5 class="m-0 font-weight-normal">PAULINA BITRUS</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state internal revenue service</h5></td>
+                            <td>Generator</td>                            
+                        </tr>
+                    </tbody>
+                </table>
+
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_march" style="display:none">
+
+                    <thead class="thead-light">
+                        <tr>
+                            <th class="font-weight-medium">S/N</th>
+                            <th class="font-weight-medium"></th>
+                            <th class="font-weight-medium">Name</th>
+                            <th class="font-weight-medium">DEPARTMENT</th>
+                            <th class="font-weight-medium">Reward Disbursed</th>                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="bg-soft-success">
+                            <td style="width: 36px;">1</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>
+                            <td><h5 class="m-0 font-weight-normal">RETNAN DASER</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state muslim pilgrims welfare</h5></td>    
+                            <td>Car</td>
+                        </tr>
+
+                        <tr class="bg-soft-success">
+                            <td style="width: 36px;">2</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>
+                            <td><h5 class="m-0 font-weight-normal">JOYCE MUSA</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state internal revenue service</h5></td>
+                            <td>House</td>                            
+                        </tr>
+                        <tr class="bg-soft-success">
+                            <td style="width: 36px;">3</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>
+                            
+                            <td><h5 class="m-0 font-weight-normal">GYANG CHOJI</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Kabong market</h5></td>
+                            <td>Land</td>
+                        </tr>
+                        <tr class="bg-soft-danger">
+                            <td style="width: 36px;">4</td>
+                            <td style="width: 36px;">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                            </td>                            
+                            <td><h5 class="m-0 font-weight-normal">BENETA PAM</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state fire service directorate	</h5></td>
+                            <td>TV Set</td>
+                        </tr>
+                        <tr class="bg-soft-danger">
+                            <td style="width: 36px;">5</td>
+                            <td style="width: 36px;"><img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important"></td>                            
+                            <td><h5 class="m-0 font-weight-normal">PARLONG DAVID</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plateau state audit department</h5></td>
                             <td>Generator</td>                            
                         </tr>
                     </tbody>
