@@ -145,7 +145,7 @@
         </div>
     </div>
 
-    <div class="col-md-6 col-xl-3">
+    <div class="col-md-6 col-xl-6">
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
