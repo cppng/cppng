@@ -158,6 +158,7 @@
         
 
         function showTable(select){
+            console.log('object')
             if(select.value== 'january'){
                 document.getElementById('january').style.display = "block";
             } else{
