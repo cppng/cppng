@@ -5,18 +5,14 @@ $month = "jan";
 
 if(isset($_GET['month'])){
 
-
-
     if(file_exists("../src/data/".$_GET['month'].".json")){
 
         $month = $_GET['month'];
     }
     else{
-
-        echo "<script> var exists = false; </script>";
+         $month = 'jan_cumm';
     }
-
-    
+        
 
 }
  
@@ -95,9 +91,10 @@ function getRevenueLeagueClass($index, $count){
                             </select>
                         </div>
                     </div>
-                    <a href="/league/cummulative" class="btn btn-blue btn-sm ml-2">
-                        Cummulative
-                    </a>
+
+                    <?php echo ' <a href="/league/cummulative?month='.$month.'" class="btn btn-blue btn-sm ml-2">
+                    Cummulative
+                    </a>'; ?>
                 </form>
             </div>
             <h4 class="page-title">Revenue League</h4>
@@ -127,7 +124,6 @@ function getRevenueLeagueClass($index, $count){
 
             <div class="table-responsive">
                 <table class="table table-borderless table-hover table-nowrap table-centered m-0">
-
                     <thead class="thead-light">
                         <tr>
                             <th class="font-weight-medium">S/N</th>
@@ -140,6 +136,8 @@ function getRevenueLeagueClass($index, $count){
                         </tr>
                     </thead>
                     <tbody>
+
+                        <?php echo sizeof($json_data) ?: '<tr><td Colspan="6"><h1 style="text-align:center;"> No Data Available</h1></td></tr>';?>
 
                         <?php  $index = 0; foreach($json_data as $obj){ 
                             
@@ -251,11 +249,5 @@ function monthChanged() {
 
 
 
-}
-
-
-if (!exists) {
-
-    alert("Month not available");
 }
 </script>
