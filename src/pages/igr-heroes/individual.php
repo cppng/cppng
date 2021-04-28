@@ -25,7 +25,7 @@
                                 <select class="form-control my-1 my-md-0">
                                     <option>Select</option>
                                     <option>January</option>
-                                    <option>Febuary</option>
+                                    <option>February</option>
                                     <option selected>March</option>
                                     <option>April</option>
                                     <option>May</option>

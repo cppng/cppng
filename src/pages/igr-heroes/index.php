@@ -25,7 +25,7 @@
                                 <select class="form-control my-1 my-md-0" id="hero_month" onchange="showTable(this)">
                                     <option>Select</option>
                                     <option value="january">January</option>
-                                    <option value="february">Febuary</option>
+                                    <option value="february">February</option>
                                     <option value="march">March</option>
                                     <option>April</option>
                                     <option>May</option>
@@ -90,7 +90,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="february">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="february" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
@@ -119,7 +119,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="march">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="march" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
