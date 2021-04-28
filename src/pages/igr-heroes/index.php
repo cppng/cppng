@@ -157,25 +157,29 @@
     <script type="text/javascript">       
 
         function showTable(){
-            var selected = document.getElementById("month").value;
+            var selected = document.getElementById("hero_month").value;
             console.log(select)
-            if(select.value== 'january'){
+            if(selected== 'january'){
                 document.getElementById('january').style.display = "table";
             } else{
                 document.getElementById('january').style.display = "none";
             }
             
-            if(select.value== 'february'){
+            if(selected== 'february'){
                 document.getElementById('february').style.display = "table";
             } else{
                 document.getElementById('february').style.display = "none";
             }
             
-            if(select.value== 'march'){
+            if(selected == 'march'){
                 document.getElementById('march').style.display = "table";
             } else{
                 document.getElementById('march').style.display = "none";
             }
+        }
+
+        if (!exists) {
+            alert("Month not available");
         }
 
     </script>
