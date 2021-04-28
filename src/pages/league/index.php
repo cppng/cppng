@@ -81,15 +81,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                             </td>
 
-                            <td style="text-align: left">
+                            <td class="text-right">
                                 35,174,466
                             </td>
 
-                            <td style="text-align: left">
+                            <td class="text-right">
                                 237,279,147
                             </td>
 
-                            <td style="text-align: left">
+                            <td class="text-right">
                                 67.5
                             </td>
 
@@ -107,15 +107,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                             <td>
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
-                            <td style="text-align: left">
+                            <td class="text-right">
                                 41,666
                             </td>
 
-                            <td style="text-align: left">
+                            <td class="text-right">
                                 149,700
                             </td>
 
-                            <td style="text-align: left">
+                            <td class="text-right">
                                 35.9
                             </td>
 
@@ -135,15 +135,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 3,925,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 11,380,048	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 28.9
                             </td>
 
@@ -161,15 +161,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE	</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 166,666
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 340,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 20.4
                             </td>
 
@@ -187,15 +187,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">MINITRY OF BUDGET AND ECONOMIC PLANNING</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 9,835,000
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 16,471,817
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 16.8
                             </td>
 
@@ -212,15 +212,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF YOUTH AND SPORTS DEVELOPMENT</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 25,195,958
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 41,346,010	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 16.4
                             </td>
 
@@ -237,15 +237,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF HEALTH - PLATEAU STATE</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 4,583,333
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 7,044,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 15.4
                             </td>
 
@@ -262,15 +262,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE TEACHERS SERVICE COMMISSION</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 229,166
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 332,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 14.5
                             </td>
 
@@ -287,15 +287,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">PLATEAU RADIO TELEVISION CORPORATION-TV	</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 16,666,666
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 22,969,290	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 13.8
                             </td>
 
@@ -313,15 +313,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF MINERAL DEVELOPMENT</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 125,000
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 118,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 9.4
                             </td>
 
@@ -339,15 +339,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">HIGH COURT OF JUSTICE - PLATEAU STATE	</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 10,458,333	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 9,094,900
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 9.0
                             </td>
 
@@ -364,15 +364,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE LOCAL GOVERNMENT SERVICE		</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 1,361,970,114	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 998,284,596
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 7.3
                             </td>
 
@@ -389,15 +389,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">MINISTRY FOR LOCAL GOVERNMENT AND CHIFTANCY</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 184,166	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 121,250	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 6.6
                             </td>
 
@@ -414,15 +414,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF EDU. SCI & TECH - (HIGHER EDUCATION)	</h5>
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 33,333
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 21,600
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 6.5	
                             </td>
 
@@ -437,15 +437,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF ARTS, SCIENCE AND TECHNOLOGY, KURGWI    </h5>
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 209,166
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 135,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 6.5	
                             </td>
 
@@ -460,15 +461,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE UNIVERSITY, BOKKOS	</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 4,708,333	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 2,905,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 6.2
                             </td>
 
@@ -483,15 +485,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF JUSTICE - PLATEAU STATE		</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 233,333
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 144,500
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 6.2
                             </td>
 
@@ -507,15 +510,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE CIVIL SERVICE COMMISSION</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 12,425,000
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 7,627,720	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 6.1
                             </td>
 
@@ -531,15 +535,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE INDEPENDENT ELECTORAL		</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 1,250,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 725,284
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 5.8
                             </td>
 
@@ -554,15 +559,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF EDUCATION AND ERC PLATEAU STATE		</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 45,833
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 23,400
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 5.1
                             </td>
 
@@ -577,15 +583,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">COLLEGE OF NURSING AND MIDWIFERY, VOM</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 1,850,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 921,075
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 5.0
                             </td>
 
@@ -601,15 +608,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE WATER BOARD	</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 20,833
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 10,000
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 4.8
                             </td>
 
@@ -624,15 +632,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">OFFICE OF THE SECRETARY TO THE GOVERNMENT</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 104,166
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 47,210	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 4.5
                             </td>
 
@@ -647,15 +656,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">SHARIA COURT OF APPEAL - PLATEAU STATE	</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 20,302,083	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 7,976,490	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 3.9
                             </td>
 
@@ -671,19 +681,20 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">MINISTRY OF INFORMATION AND COMMUNICATION	</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 4,515,083	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 1,637,000	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 3.6
                             </td>
 
-                            <!-- <td>
+                            <!-- <td class="text-right">
                                 36.26%
                             </td> -->
                         </tr>
@@ -695,15 +706,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">CUSTOMARY COURT OF APPEAL</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 35,045,833	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 12,191,585
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 3.5
                             </td>
 
@@ -718,15 +730,16 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE POLYTECHNIC, BARKIN LADI (MAIN/HRDC	</h5>   
-                            <td>
+                            </td>
+                            <td class="text-right">
                                 6,686,250		
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 1,899,800	
                             </td>
 
-                            <td>
+                            <td class="text-right">
                                 2.8
                             </td>
 
