@@ -149,8 +149,8 @@ function getRevenueLeagueClass($index, $count){
                         <tr class="text-white" style="<?php echo getRevenueLeagueClass($index, count($json_data)); ?> ">
                             <td style="width: 36px;"><?php echo $index?></td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-whit text-right">
-                                    <?php echo number_format(intval($obj['FIELD2']))?></h5>
+                                <h5 class="m-0 font-weight-normal text-white text-left">
+                                    <?php echo $obj['FIELD2'] ;?></h5>
                             </td>
                             <td>
                                 <h5 class="m-0 font-weight-normal text-white text-right">
