@@ -77,7 +77,7 @@
                         <tr class="bg-soft-success">
                             <td style="width: 36px;">1</td>
                             <td style="width: 36px;">
-                                <img src="/assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             <td><h5 class="m-0 font-weight-normal">NANI PAUL</h5></td>
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
@@ -90,7 +90,7 @@
                                 2
                             </td>
                             <td style="width: 36px;">
-                                <img src="/assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             <td><h5 class="m-0 font-weight-normal">PLANTOK LARRY</h5></td>
                             <td>
@@ -108,7 +108,7 @@
                                 3	
                             </td>
                             <td style="width: 36px;">
-                                <img src="/assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
                             <td><h5 class="m-0 font-weight-normal">GYANG CHOJI</h5></td>
@@ -127,7 +127,7 @@
                                 4
                             </td>
                             <td style="width: 36px;">
-                                <img src="/assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
                             <td><h5 class="m-0 font-weight-normal">SUNDAY IZANG</h5></td>
@@ -150,7 +150,7 @@
                             </td>
 
                             <td style="width: 36px;">
-                                <img src="/assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
+                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
                             <td>
