@@ -56,9 +56,9 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                         <tr>
                             <th class="font-weight-medium">S/N</th>
                             <th class="font-weight-medium">MDA</th>
-                            <th class="font-weight-medium">Target(N)</th>
-                            <th class="font-weight-medium">Actual IGR</th>
-                            <th class="font-weight-medium">Point</th>
+                            <th class="font-weight-medium" style="text-align: left">Target(N)</th>
+                            <th class="font-weight-medium" style="text-align: left">Actual IGR</th>
+                            <th class="font-weight-medium" style="text-align: left">Point</th>
                             <!-- <th class="font-weight-medium">IGR%</th> -->
                         </tr>
                     </thead>
@@ -66,9 +66,9 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                         <tr class="text-white" style="background-color: #3e6551;">
                             <td style="width: 36px;">1</td>    
                             <td><h5 class="m-0 font-weight-normal text-white">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
-                            <td>213,750</td>    
-                            <td>1,934,000</td>    
-                            <td>90.5</td>    
+                            <td style="text-align: left">213,750</td>    
+                            <td style="text-align: left">1,934,000</td>    
+                            <td style="text-align: left">90.5</td>    
                             <!-- <td>904.80%</td> -->
                         </tr>
 
@@ -81,15 +81,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                             </td>
 
-                            <td>
+                            <td style="text-align: left">
                                 35,174,466
                             </td>
 
-                            <td>
+                            <td style="text-align: left">
                                 237,279,147
                             </td>
 
-                            <td>
+                            <td style="text-align: left">
                                 67.5
                             </td>
 
@@ -107,15 +107,15 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                             <td>
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
-                            <td>
+                            <td style="text-align: left">
                                 41,666
                             </td>
 
-                            <td>
+                            <td style="text-align: left">
                                 149,700
                             </td>
 
-                            <td>
+                            <td style="text-align: left">
                                 35.9
                             </td>
 
