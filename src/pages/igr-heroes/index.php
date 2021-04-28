@@ -61,7 +61,7 @@
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE CHAMPIONS</h4>
 
             <div class="table-responsive">
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray" style="display:block">
 
                     <thead class="thead-light">
                         <tr>
