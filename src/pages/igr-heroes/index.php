@@ -22,7 +22,7 @@
                         <form class="d-flex flex-wrap align-items-center">
                             <label class="form-label">Previous Month</label>
                             <div class="me-sm-3">
-                                <select class="form-control my-1 my-md-0" id="hero_month" onchange="showTable(this)">
+                                <select class="form-control my-1 my-md-0" id="hero_month" onchange="showTable()">
                                     <option>Select</option>
                                     <option value="january">January</option>
                                     <option value="february">February</option>
@@ -156,7 +156,8 @@
     
     <script type="text/javascript">       
 
-        function showTable(select){
+        function showTable(){
+            var selected = document.getElementById("month").value;
             console.log(select)
             if(select.value== 'january'){
                 document.getElementById('january').style.display = "table";
