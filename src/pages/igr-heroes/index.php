@@ -154,8 +154,7 @@
 
     
     
-    <script type="text/javascript">
-        
+    <script type="text/javascript">       
 
         function showTable(select){
             console.log('object')
