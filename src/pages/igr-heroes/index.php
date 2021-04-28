@@ -61,7 +61,7 @@
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE CHAMPIONS</h4>
 
             <div class="table-responsive">
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray" style="display:table">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_january" style="display:table">
 
                     <thead class="thead-light">
                         <tr>
@@ -90,7 +90,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="february" style="display:none">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_february" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
@@ -119,7 +119,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="march" style="display:none">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_march" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
@@ -158,23 +158,23 @@
 
         function showTable(){
             var selected = document.getElementById("hero_month").value;
-            console.log(select)
-            if(selected== 'january'){
-                document.getElementById('january').style.display = "table";
+            console.log(selected)
+            if(selected == 'january'){
+                document.getElementById('month_january').style.display = "table";
             } else{
-                document.getElementById('january').style.display = "none";
+                document.getElementById('month_january').style.display = "none";
             }
             
-            if(selected== 'february'){
-                document.getElementById('february').style.display = "table";
+            if(selected == 'february'){
+                document.getElementById('month_february').style.display = "table";
             } else{
-                document.getElementById('february').style.display = "none";
+                document.getElementById('month_february').style.display = "none";
             }
             
             if(selected == 'march'){
-                document.getElementById('march').style.display = "table";
+                document.getElementById('month_march').style.display = "table";
             } else{
-                document.getElementById('march').style.display = "none";
+                document.getElementById('month_march').style.display = "none";
             }
         }
 
