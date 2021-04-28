@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-success border-success border">
-                            <i class="fe-bar-chart font-22 avatar-title text-success"></i>
+                            <i class="fe-trending-up font-22 avatar-title text-success"></i>
                         </div>
                     </div>
                     <div class="col-8">
@@ -39,7 +39,7 @@
                 <div class="row">
                     <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-success border-success border">
-                            <i class="fe-bar-chart font-22 avatar-title text-success"></i>
+                            <i class="fe-trending-up font-22 avatar-title text-success"></i>
                         </div>
                     </div>
                     <div class="col-8">
@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-success border-success border">
-                            <i class="fe-bar-chart-line- font-22 avatar-title text-success"></i>
+                            <i class="fe-trending-up font-22 avatar-title text-success"></i>
                         </div>
                     </div>
                     <div class="col-8">
@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
-                            <i class="fe-arrow-down-left font-22 avatar-title text-pink"></i>
+                            <i class="fe-trending-down font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
                     <div class="col-8">
@@ -107,7 +107,7 @@
                 <div class="row">
                     <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
-                            <i class="fe-arrow-down-left font-22 avatar-title text-pink"></i>
+                            <i class="fe-trending-down font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
                     <div class="col-8">
