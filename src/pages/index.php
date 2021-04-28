@@ -192,18 +192,9 @@
 <!-- end row-->
 
 <div class="row">
-    <div class="col-lg-6">
-        <div class="card">
-            <div class="card-body">
-                <h4 class="header-title mb-0">Contribution to IGRs</h4>
-                <div class="widget-chart text-center " dir="ltr">
-                    <div id="total-revenue" class="mt-0" data-colors="green"></div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="col-lg-6">
+
+    <div class="col-lg-12">
         <div class="card">
             <div class="card-body pb-2">
                 <div class="float-end d-none d-md-inline-block">
@@ -365,7 +356,18 @@
         </div>
     </div>
 </div>
-
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="header-title mb-0">Contribution to IGRs</h4>
+                <div class="widget-chart text-center " dir="ltr">
+                    <div id="total-revenue" class="mt-0" data-colors="green"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <?php
     include_once PAGE_PARTIALS_PATH . DS . 'footer.php';
 ?>
