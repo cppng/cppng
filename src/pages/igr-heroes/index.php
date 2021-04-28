@@ -152,25 +152,29 @@
     </div>
 </div>
 
-
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
     <script>
         $(document).ready(function() {
             $('#hero_month').on('change', function () {
                 let selectedMonth = $(this).children("option:selected").val();
 
                 if(selectedMonth == 'january'){
+                    console.log('month', selectedMonth)
                     $('#january').show();
                 } else {
                     $('#january').hide();
                 }
                 
                 if(selectedMonth == 'february'){
+                    console.log('month', selectedMonth)
                     $('#february').show();
                 } else {
                     $('#february').hide();
                 }
                 
                 if(selectedMonth == 'march'){
+                    console.log('month', selectedMonth)
                     $('#feb').show();
                 } else {
                     $('#feb').hide();
