@@ -16,7 +16,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-6">
-                        <div class="avatar-lg rounded-circle bg-soft-pink border-success border">
+                        <div class="avatar-lg rounded-circle bg-soft-success border-success border">
                             <i class="fe-bar-chart font-22 avatar-title text-success"></i>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-6">
-                        <div class="avatar-lg rounded-circle bg-soft-pink border-success border">
+                        <div class="avatar-lg rounded-circle bg-soft-success border-success border">
                             <i class="fe-bar-chart font-22 avatar-title text-success"></i>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-6">
-                        <div class="avatar-lg rounded-circle bg-soft-blue border-pink border">
+                        <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
                             <i class="fe-arrow-down-left font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-6">
-                        <div class="avatar-lg rounded-circle bg-soft-blue border-pink border">
+                        <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
                             <i class="fe-arrow-down-left font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
