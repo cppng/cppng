@@ -113,7 +113,7 @@
                     <div class="col-6">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span>₦1,026,353,980</span>
+                                <span class='dashboard-digit-text'>₦1,026,353,980</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Cummulative Recoveries</p>
                         </div>
@@ -135,7 +135,7 @@
                     <div class="col-6">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span>₦1,026,353</span>
+                                <span class='dashboard-digit-text'>₦1,026,353</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Recovery (March)</p>
                         </div>
@@ -157,7 +157,7 @@
                     <div class="col-6">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span>₦22,735,008,960</span>
+                                <span class='dashboard-digit-text'>₦22,735,008,960</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Total IGR</p>
                         </div>
@@ -178,7 +178,7 @@
                     </div>
                     <div class="col-6">
                         <div class="text-end">
-                            <h3 class="text-dark mt-1"><span>557,435 </span></h3>
+                            <h3 class="text-dark mt-1"><span class='dashboard-digit-text'>557,435 </span></h3>
                             <p class="text-muted mb-1 text-truncate">
                                 Total Tax Payers
                             </p>
