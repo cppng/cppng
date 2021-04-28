@@ -25,7 +25,7 @@
                                 <select class="form-control my-1 my-md-0">
                                     <option>Select</option>
                                     <option>January</option>
-                                    <option>Febuary</option>
+                                    <option>February</option>
                                     <option selected>March</option>
                                     <option>April</option>
                                     <option>May</option>
@@ -80,7 +80,7 @@
                                 <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
                             </td>
                             <td><h5 class="m-0 font-weight-normal">NANI PAUL</h5></td>
-                            <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
+                            <td><h5 class="m-0 font-weight-normal">Plateau state muslim pilgrims welfare</h5></td>    
                             <td>Car</td>                               
                             
                         </tr>
@@ -94,7 +94,7 @@
                             </td>
                             <td><h5 class="m-0 font-weight-normal">PLANTOK LARRY</h5></td>
                             <td>
-                                <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
+                                <h5 class="m-0 font-weight-normal">Plateau state audit department</h5>
                             </td>
 
                             <td>
@@ -113,7 +113,7 @@
                             
                             <td><h5 class="m-0 font-weight-normal">GYANG CHOJI</h5></td>
                             <td>
-                                <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
+                                <h5 class="m-0 font-weight-normal">Kabong market</h5>
                             </td>
                             <td>
                                 Land
@@ -133,7 +133,7 @@
                             <td><h5 class="m-0 font-weight-normal">SUNDAY IZANG</h5></td>
 
                             <td>
-                                <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE	</h5>
+                                <h5 class="m-0 font-weight-normal">Plateau state fire service directorate	</h5>
                                 
                             </td>
 
@@ -157,7 +157,7 @@
                                 <h5 class="m-0 font-weight-normal">PAULINA BITRUS</h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
+                                <h5 class="m-0 font-weight-normal">Plateau state internal revenue service</h5>
                             </td>
 
                             <td>

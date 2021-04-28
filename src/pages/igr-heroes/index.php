@@ -22,10 +22,10 @@
                         <form class="d-flex flex-wrap align-items-center">
                             <label class="form-label">Previous Month</label>
                             <div class="me-sm-3">
-                                <select class="form-control my-1 my-md-0" id="hero_month">
+                                <select class="form-control my-1 my-md-0" id="hero_month" onchange="showTable(this)">
                                     <option>Select</option>
                                     <option value="january">January</option>
-                                    <option value="february">Febuary</option>
+                                    <option value="february">February</option>
                                     <option value="march">March</option>
                                     <option>April</option>
                                     <option>May</option>
@@ -61,7 +61,7 @@
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE CHAMPIONS</h4>
 
             <div class="table-responsive">
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray" style="display:block">
 
                     <thead class="thead-light">
                         <tr>
@@ -90,7 +90,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="february">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="february" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
@@ -119,7 +119,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="march">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="march" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
@@ -152,31 +152,31 @@
     </div>
 </div>
 
+    
+    
+    <script type="text/javascript">       
 
-    <script>
-        $(document).ready(function() {
-            $('#hero_month').on('change', function () {
-                let selectedMonth = $(this).children("option:selected").val();
+        function showTable(select){
+            console.log('object')
+            if(select.value== 'january'){
+                document.getElementById('january').style.display = "block";
+            } else{
+                document.getElementById('january').style.display = "none";
+            }
+            
+            if(select.value== 'february'){
+                document.getElementById('february').style.display = "block";
+            } else{
+                document.getElementById('february').style.display = "none";
+            }
+            
+            if(select.value== 'march'){
+                document.getElementById('march').style.display = "block";
+            } else{
+                document.getElementById('march').style.display = "none";
+            }
+        }
 
-                if(selectedMonth == 'january'){
-                    $('#january').show();
-                } else {
-                    $('#january').hide();
-                }
-                
-                if(selectedMonth == 'february'){
-                    $('#february').show();
-                } else {
-                    $('#february').hide();
-                }
-                
-                if(selectedMonth == 'march'){
-                    $('#feb').show();
-                } else {
-                    $('#feb').hide();
-                }
-            });
-        });
     </script>
 <?php
     include_once PAGE_PARTIALS_PATH . DS . 'footer.php';
