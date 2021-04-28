@@ -76,7 +76,7 @@
                         <tr class="bg-soft-success">
                             <td style="width: 36px;">1</td>
                             <td style="width: 36px;">
-                                <img src="/assets/images/person.png" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
+                                <img src="/assets/images/nani.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" style="height: auto !important">
                             </td>
                             <td><h5 class="m-0 font-weight-normal">NANI PAUL</h5></td>
                             <td><h5 class="m-0 font-weight-normal">Plateau state muslim pilgrims welfare</h5></td>    

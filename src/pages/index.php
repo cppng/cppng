@@ -227,9 +227,9 @@
                             <tr>
                                 <th class="font-weight-medium">S/N</th>
                                 <th class="font-weight-medium">MDA</th>
-                                <th class="font-weight-medium">Target(N)</th>
-                                <th class="font-weight-medium">Actual IGR</th>
-                                <th class="font-weight-medium">Point</th>
+                                <th class="font-weight-medium text-right">Target(N)</th>
+                                <th class="font-weight-medium text-right">Actual IGR</th>
+                                <th class="font-weight-medium text-right">Point</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -239,9 +239,9 @@
                                     <h5 class="m-0 font-weight-normal text-white">PLATEAU STATE MUSLIM PILGRIMS WELFARE
                                     </h5>
                                 </td>
-                                <td>213,750</td>
-                                <td>1,934,000</td>
-                                <td>90.5</td>
+                                <td class="text-right">213,750</td>
+                                <td class="text-right">1,934,000</td>
+                                <td class="text-right">90.5</td>
                             </tr>
 
                             <tr class="bg-success">
@@ -249,36 +249,36 @@
                                 <td>
                                     <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                                 </td>
-                                <td>35,174,466</td>
-                                <td>237,279,147</td>
-                                <td>67.5 </td>
+                                <td class="text-right">35,174,466</td>
+                                <td class="text-right">237,279,147</td>
+                                <td class="text-right">67.5 </td>
                             </tr>
                             <tr class="bg-soft-success">
                                 <td style="width: 36px;">3</td>
                                 <td>
                                     <h5 class="m-0 font-weight-normal">KABONG MARKET</h5>
                                 </td>
-                                <td>41,666</td>
-                                <td>149,700</td>
-                                <td>35.9</td>
+                                <td class="text-right">41,666</td>
+                                <td class="text-right">149,700</td>
+                                <td class="text-right">35.9</td>
                             </tr>
                             <tr>
                                 <td style="width: 36px;">4</td>
                                 <td>
                                     <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE</h5>
                                 </td>
-                                <td>3,925,000</td>
-                                <td>11,380,048</td>
-                                <td>28.9</td>
+                                <td class="text-right">3,925,000</td>
+                                <td class="text-right">11,380,048</td>
+                                <td class="text-right">28.9</td>
                             </tr>
                             <tr>
                                 <td style="width: 36px;">5</td>
                                 <td>
                                     <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
                                 </td>
-                                <td>166,666</td>
-                                <td>340,000</td>
-                                <td>20.4</td>
+                                <td class="text-right">166,666</td>
+                                <td class="text-right">340,000</td>
+                                <td class="text-right">20.4</td>
                             </tr>
                         </tbody>
                     </table>
@@ -297,9 +297,9 @@
                             <tr>
                                 <th class="font-weight-medium">S/N</th>
                                 <th class="font-weight-medium">MDA</th>
-                                <th class="font-weight-medium">Target(N)</th>
-                                <th class="font-weight-medium">Actual IGR</th>
-                                <th class="font-weight-medium">Point</th>
+                                <th class="font-weight-medium text-right">Target(N)</th>
+                                <th class="font-weight-medium text-right">Actual IGR</th>
+                                <th class="font-weight-medium text-right">Point</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -309,9 +309,9 @@
                                     <h5 class="m-0 font-weight-normal text-white">PLATEAU STATE MUSLIM PILGRIMS WELFARE
                                     </h5>
                                 </td>
-                                <td>213,750</td>
-                                <td>1,934,000</td>
-                                <td>90.5</td>
+                                <td class="text-right">213,750</td>
+                                <td class="text-right">1,934,000</td>
+                                <td class="text-right">90.5</td>
                             </tr>
 
                             <tr class="bg-success">
@@ -319,36 +319,36 @@
                                 <td>
                                     <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                                 </td>
-                                <td>35,174,466</td>
-                                <td>237,279,147</td>
-                                <td>67.5 </td>
+                                <td class="text-right">35,174,466</td>
+                                <td class="text-right">237,279,147</td>
+                                <td class="text-right">67.5 </td>
                             </tr>
                             <tr class="bg-soft-success">
                                 <td style="width: 36px;">3</td>
                                 <td>
                                     <h5 class="m-0 font-weight-normal">KABONG MARKET</h5>
                                 </td>
-                                <td>41,666</td>
-                                <td>149,700</td>
-                                <td>35.9</td>
+                                <td class="text-right">41,666</td>
+                                <td class="text-right">149,700</td>
+                                <td class="text-right">35.9</td>
                             </tr>
                             <tr>
                                 <td style="width: 36px;">4</td>
                                 <td>
                                     <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE</h5>
                                 </td>
-                                <td>3,925,000</td>
-                                <td>11,380,048</td>
-                                <td>28.9</td>
+                                <td class="text-right">3,925,000</td>
+                                <td class="text-right">11,380,048</td>
+                                <td class="text-right">28.9</td>
                             </tr>
                             <tr>
                                 <td style="width: 36px;">5</td>
                                 <td>
                                     <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
                                 </td>
-                                <td>166,666</td>
-                                <td>340,000</td>
-                                <td>20.4</td>
+                                <td class="text-right">166,666</td>
+                                <td class="text-right">340,000</td>
+                                <td class="text-right">20.4</td>
                             </tr>
                         </tbody>
                     </table>
