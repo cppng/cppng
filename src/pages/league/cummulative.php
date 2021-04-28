@@ -80,7 +80,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                         <tr class="text-white" style="background-color: #3e6551;">
                             <td style="width: 36px;">1</td>
                             <td>
-                                <h5 class="m-0 font-weight-normal"> MINISTRY OF JUSTICE - PLATEAU STATE </h5>
+                                <h5 class="m-0 font-weight-normal text-white"> MINISTRY OF JUSTICE - PLATEAU STATE </h5>
                             </td>
                             <td class="text-right">10,150,000</td>
                             <td class="text-right">845,833 </td>
