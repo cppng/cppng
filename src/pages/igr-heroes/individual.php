@@ -43,7 +43,7 @@
                     <div class="col-md-4">
                         <div class="text-md-end mt-3 mt-md-0">
                             <!-- <button type="button" class="btn btn-success waves-effect waves-light me-1"><i class="mdi mdi-cog"></i></button> -->
-                            <a href="" class="btn btn-primary waves-effect waves-light me-1"><i class="mdi mdi-users me-1"></i> MDA Rewards</a>
+                            <a href="/igr-heroes" class="btn btn-primary waves-effect waves-light me-1"><i class="mdi mdi-users me-1"></i> MDA Rewards</a>
                             <a href="/igr-heroes/individual" class="btn btn-info waves-effect waves-light me-1"><i class="mdi mdi-users me-1"></i> Individual Rewards</a>
                         </div>
                     </div><!-- end col-->
