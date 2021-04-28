@@ -11,7 +11,7 @@
 <!-- end page title -->
 
 <div class="row">
-    <div class="col-md-6 col-xl-6">
+    <div class="col-md-4 col-xl-4">
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
@@ -33,7 +33,7 @@
         </div>
     </div>
 
-    <div class="col-md-6 col-xl-6">
+    <div class="col-md-4 col-xl-4">
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
@@ -48,6 +48,28 @@
                                 <span class='dashboard-digit-text'>₦947,292</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Current IGR</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-xl-4">
+        <div class="widget-rounded-circle card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="avatar-lg rounded-circle bg-soft-success border-success border">
+                            <i class="fe-bar-chart-line- font-22 avatar-title text-success"></i>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="text-end">
+                            <h3 class="text-dark mt-1">
+                                <span class='dashboard-digit-text'>₦22,735,008,960</span>
+                            </h3>
+                            <p class="text-muted mb-1 text-truncate">Total IGR</p>
                         </div>
                     </div>
                 </div>
@@ -145,27 +167,7 @@
         </div>
     </div>
 
-    <div class="col-md-6 col-xl-6">
-        <div class="widget-rounded-circle card">
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-6">
-                        <div class="avatar-lg rounded-circle bg-soft-success border-success border">
-                            <i class="fe-bar-chart-line- font-22 avatar-title text-success"></i>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="text-end">
-                            <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦22,735,008,960</span>
-                            </h3>
-                            <p class="text-muted mb-1 text-truncate">Total IGR</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 
     <div class="col-md-6 col-xl-6">
         <div class="widget-rounded-circle card">
