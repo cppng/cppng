@@ -68,7 +68,7 @@
                             <th class="font-weight-medium">S/N</th>
                             <th class="font-weight-medium"></th>
                             <th class="font-weight-medium">Name</th>
-                            <th class="font-weight-medium">MDA</th>
+                            <th class="font-weight-medium">DEPARTMENT</th>
                             <th class="font-weight-medium">Reward Disbursed</th>
                             
                         </tr>
@@ -81,8 +81,7 @@
                             </td>
                             <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td>
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
-                            <td>Car</td>    
-                            
+                            <td>Car</td>                               
                             
                         </tr>
 
