@@ -15,12 +15,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-success border-success border">
                             <i class="fe-bar-chart font-22 avatar-title text-success"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦947,292,040</span>
@@ -37,12 +37,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-success border-success border">
                             <i class="fe-bar-chart font-22 avatar-title text-success"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦947,292</span>
@@ -59,12 +59,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-success border-success border">
                             <i class="fe-bar-chart-line- font-22 avatar-title text-success"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦22,735,008,960</span>
@@ -81,12 +81,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
                             <i class="fe-arrow-down-left font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦1,026,353,980</span>
@@ -105,12 +105,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
                             <i class="fe-arrow-down-left font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'> ₦1,026,353</span>
@@ -127,12 +127,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-pink border-pink border">
                             <i class="fe-bar-chart font-22 avatar-title text-pink"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦1,026,353,980</span>
@@ -149,12 +149,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-blue border-blue border">
                             <i class="fe-arrow-down-left font-22 avatar-title text-blue"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦1,026,353</span>
@@ -173,12 +173,12 @@
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-2">
+                    <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-blue border-blue border">
                             <i class="fe-users font-22 avatar-title text-blue"></i>
                         </div>
                     </div>
-                    <div class="col-9">
+                    <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1"><span class='dashboard-digit-text'>557,435 </span></h3>
                             <p class="text-muted mb-1 text-truncate">
