@@ -123,15 +123,15 @@
                             
 
                         </tr>
-                        <tr class="bg-soft-danger">
+                        <!-- <tr class="bg-soft-danger">
                             <td style="width: 36px;">
                                 4
                             </td>
-                            <!-- <td style="width: 36px;">
+                            <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
-                            </td> -->
+                            </td>
                             
-                            <!-- <td><h5 class="m-0 font-weight-normal">Sunday Izang</h5></td> -->
+                            <td><h5 class="m-0 font-weight-normal">Sunday Izang</h5></td>
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE	</h5>
@@ -144,19 +144,19 @@
 
 
                             
-                        </tr>
-                        <tr class="bg-soft-danger">
+                        </tr> -->
+                        <!-- <tr class="bg-soft-danger">
                             <td style="width: 36px;">
                                 5
                             </td>
 
-                            <!-- <td style="width: 36px;">
+                            <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
                             <td>
                                 <h5 class="m-0 font-weight-normal">Paulina Bitrus</h5>
-                            </td> -->
+                            </td>
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
                             </td>
@@ -166,7 +166,7 @@
                             </td>
 
                             
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>
