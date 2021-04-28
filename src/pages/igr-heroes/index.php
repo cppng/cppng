@@ -61,7 +61,7 @@
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE CHAMPIONS</h4>
 
             <div class="table-responsive">
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray" style="display:block">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray" style="display:table">
 
                     <thead class="thead-light">
                         <tr>
@@ -159,19 +159,19 @@
         function showTable(select){
             console.log('object')
             if(select.value== 'january'){
-                document.getElementById('january').style.display = "block";
+                document.getElementById('january').style.display = "table";
             } else{
                 document.getElementById('january').style.display = "none";
             }
             
             if(select.value== 'february'){
-                document.getElementById('february').style.display = "block";
+                document.getElementById('february').style.display = "table";
             } else{
                 document.getElementById('february').style.display = "none";
             }
             
             if(select.value== 'march'){
-                document.getElementById('march').style.display = "block";
+                document.getElementById('march').style.display = "table";
             } else{
                 document.getElementById('march').style.display = "none";
             }
