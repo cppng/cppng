@@ -152,7 +152,8 @@ function getRevenueLeagueClass($index, $count){
                                     <?php echo $obj['FIELD2']?></h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-white"> <?php echo $obj['FIELD3']?></h5>
+                                <h5 class="m-0 font-weight-normal text-white">
+                                    <?php echo $obj['FIELD3']; ?></h5>
                             </td>
                             <td>
                                 <h5 class="m-0 font-weight-normal text-white"> <?php echo $obj['FIELD4']?></h5>
@@ -165,7 +166,7 @@ function getRevenueLeagueClass($index, $count){
                         <?php 
                         }
                         
-                        else  { ?>
+                        else if($index > 1)  { ?>
 
 
                         <tr class="text-dark" style="<?php echo getRevenueLeagueClass($index, count($json_data)); ?> ">
@@ -175,13 +176,19 @@ function getRevenueLeagueClass($index, $count){
                                     <?php echo $obj['FIELD2']?></h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-dark"> <?php echo $obj['FIELD3']?></h5>
+                                <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    <?php echo number_format($obj['FIELD3'])?>
+                                </h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-dark"> <?php echo $obj['FIELD4']?></h5>
+                                <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    <?php echo number_format($obj['FIELD4'])?>
+                                </h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-dark"> <?php echo $obj['FIELD5']?></h5>
+                                <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    <?php echo number_format(intval($obj['FIELD5']));   ?>
+                                </h5>
                             </td>
                             <!-- <td>904.80%</td> -->
                         </tr>
