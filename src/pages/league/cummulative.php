@@ -831,8 +831,8 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                             <td class="text-right">0.00</td>
                         </tr>
                         <tr>
-                            <td class="text-right">69</td>
-                            <td class="text-right"> PLATEAU STATE HOUSE OF ASSEMBLY COMMISSION </td>
+                            <td>69</td>
+                            <td> PLATEAU STATE HOUSE OF ASSEMBLY COMMISSION </td>
                             <td class="text-right">500000.00</td>
                             <td class="text-right">41666.67</td>
                             <!-- <td>0.00</td>
