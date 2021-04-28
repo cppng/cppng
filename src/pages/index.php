@@ -174,7 +174,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-6">
-                        <div class="avatar-lg rounded-circle bg-soft-warning border-blue border">
+                        <div class="avatar-lg rounded-circle bg-soft-blue border-blue border">
                             <i class="fe-users font-22 avatar-title text-blue"></i>
                         </div>
                     </div>
