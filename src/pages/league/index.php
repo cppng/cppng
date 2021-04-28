@@ -132,6 +132,7 @@ function getRevenueLeagueClass($index, $count){
                         <tr>
                             <th class="font-weight-medium">S/N</th>
                             <th class="font-weight-medium">MDA</th>
+                            <th class="font-weight-medium">Budget </th>
                             <th class="font-weight-medium text-right">Target(N)</th>
                             <th class="font-weight-medium text-right">Actual IGR</th>
                             <th class="font-weight-medium text-right">Point</th>
@@ -148,18 +149,24 @@ function getRevenueLeagueClass($index, $count){
                         <tr class="text-white" style="<?php echo getRevenueLeagueClass($index, count($json_data)); ?> ">
                             <td style="width: 36px;"><?php echo $index?></td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-white">
-                                    <?php echo $obj['FIELD2']?></h5>
+                                <h5 class="m-0 font-weight-normal text-whit text-right">
+                                    <?php echo number_format(intval($obj['FIELD2']))?></h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-white">
-                                    <?php echo $obj['FIELD3']; ?></h5>
+                                <h5 class="m-0 font-weight-normal text-white text-right">
+                                    <?php echo number_format(intval($obj['FIELD3'])); ?></h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-white"> <?php echo $obj['FIELD4']?></h5>
+                                <h5 class="m-0 font-weight-normal text-white text-right">
+                                    <?php echo number_format(intval($obj['FIELD4']))?></h5>
                             </td>
                             <td>
-                                <h5 class="m-0 font-weight-normal text-white"> <?php echo $obj['FIELD5']?></h5>
+                                <h5 class="m-0 font-weight-normal text-white text-right">
+                                    <?php echo number_format(intval($obj['FIELD5']))?></h5>
+                            </td>
+                            <td>
+                                <h5 class="m-0 font-weight-normal text-white text-right">
+                                    <?php echo number_format(intval($obj['FIELD6']))?></h5>
                             </td>
                             <!-- <td>904.80%</td> -->
                         </tr>
@@ -189,6 +196,10 @@ function getRevenueLeagueClass($index, $count){
                                 <h5 class="m-0 font-weight-normal text-dark text-right">
                                     <?php echo number_format(intval($obj['FIELD5']));   ?>
                                 </h5>
+                            </td>
+                            <td>
+                                <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    <?php echo number_format(intval($obj['FIELD6']))?></h5>
                             </td>
                             <!-- <td>904.80%</td> -->
                         </tr>
