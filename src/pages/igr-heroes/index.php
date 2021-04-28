@@ -22,7 +22,7 @@
                         <form class="d-flex flex-wrap align-items-center">
                             <label class="form-label">Previous Month</label>
                             <div class="me-sm-3">
-                                <select class="form-control my-1 my-md-0" id="hero_month">
+                                <select class="form-control my-1 my-md-0" id="hero_month" onchange="showTable(this)">
                                     <option>Select</option>
                                     <option value="january">January</option>
                                     <option value="february">Febuary</option>
@@ -154,33 +154,29 @@
 
     
     
-    <script>
-        $(document).ready(function() {
-            $('#hero_month').on('change', function () {
-                let selectedMonth = $(this).children("option:selected").val();
+    <script type="text/javascript">
+        
 
-                if(selectedMonth == 'january'){
-                    console.log('month', selectedMonth)
-                    $('#january').show();
-                } else {
-                    $('#january').hide();
-                }
-                
-                if(selectedMonth == 'february'){
-                    console.log('month', selectedMonth)
-                    $('#february').show();
-                } else {
-                    $('#february').hide();
-                }
-                
-                if(selectedMonth == 'march'){
-                    console.log('month', selectedMonth)
-                    $('#feb').show();
-                } else {
-                    $('#feb').hide();
-                }
-            });
-        });
+        function showTable(select){
+            if(select.value== 'january'){
+                document.getElementById('january').style.display = "block";
+            } else{
+                document.getElementById('january').style.display = "none";
+            }
+            
+            if(select.value== 'february'){
+                document.getElementById('february').style.display = "block";
+            } else{
+                document.getElementById('february').style.display = "none";
+            }
+            
+            if(select.value== 'march'){
+                document.getElementById('march').style.display = "block";
+            } else{
+                document.getElementById('march').style.display = "none";
+            }
+        }
+
     </script>
 <?php
     include_once PAGE_PARTIALS_PATH . DS . 'footer.php';
