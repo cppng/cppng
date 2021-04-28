@@ -81,7 +81,7 @@
                             </td> -->
                             <!-- <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td> -->
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
-                            <td>Car</td>    
+                            <td> 3 Cars</td>    
                             
                             
                         </tr>
@@ -99,7 +99,7 @@
                             </td>
 
                             <td>
-                                House	
+                                2 Cars	
                             </td>
 
                             
@@ -117,7 +117,7 @@
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
                             <td>
-                                Land
+                                1 Car
                             </td>
 
                             
