@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y git-core cron \
 
 COPY .docker/000-default.conf /etc/apache2/sites-available/000-default.conf
 COPY entrypoint /usr/local/bin/entrypoint
+COPY entrypoint /usr/local/bin/entrypoint
 
 RUN chmod +x /usr/local/bin/entrypoint
 
