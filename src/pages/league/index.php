@@ -132,7 +132,7 @@ function getRevenueLeagueClass($index, $count){
                         <tr>
                             <th class="font-weight-medium">S/N</th>
                             <th class="font-weight-medium">MDA</th>
-                            <th class="font-weight-medium">Budget </th>
+                            <th class="font-weight-medium text-right">Budget </th>
                             <th class="font-weight-medium text-right">Target(N)</th>
                             <th class="font-weight-medium text-right">Actual IGR</th>
                             <th class="font-weight-medium text-right">Point</th>
