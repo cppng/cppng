@@ -67,13 +67,13 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                         <tr>
                             <th class="font-weight-medium">LEAGUE POSITION</th>
                             <th class="font-weight-medium"> NAME </th>
-                            <th class="font-weight-medium">2021 Budget</th>
-                            <th class="font-weight-medium">League Monthly Target</th>
+                            <th class="font-weight-medium text-right">2021 Budget</th>
+                            <th class="font-weight-medium text-right">League Monthly Target</th>
                             <!-- <th class="font-weight-medium">January League Points</th> -->
                             <!-- <th class="font-weight-medium">February League Points</th> -->
                             <!-- <th class="font-weight-medium">March League Points</th> -->
                             <!-- <th class="font-weight-medium">Total % Contribution To Pool</th> -->
-                            <th class="font-weight-medium">Total % League Points</th>
+                            <th class="font-weight-medium text-right">Total % League Points</th>
                         </tr>
                     </thead>
                     <tbody>
