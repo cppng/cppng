@@ -157,7 +157,7 @@
     <script type="text/javascript">       
 
         function showTable(select){
-            console.log('object')
+            console.log(select)
             if(select.value== 'january'){
                 document.getElementById('january').style.display = "table";
             } else{
