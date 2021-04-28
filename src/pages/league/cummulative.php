@@ -136,7 +136,7 @@ function getRevenueLeagueClass($index, $count){
                         </tr>
                     </thead>
                     <tbody>
-                        <?php echo sizeof($json_data) ?: '<tr><td Colspan="6"><h1 style="text-align:center;"> No Data Available</h1></td></tr>';?>
+                        <?php echo sizeof($json_data) < 1 ? '<tr><td Colspan="6"><h1 style="text-align:center;"> No Data Available</h1></td></tr>':"";?>
 
                         <?php  $index = 0; foreach($json_data as $obj){ 
                             
