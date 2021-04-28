@@ -69,7 +69,7 @@
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦22,735,008,960</span>
                             </h3>
-                            <p class="text-muted mb-1 text-truncate">Total IGR | Current IRG + Current Recoveries</p>
+                            <p class="text-muted mb-1 text-truncate">Total IGR | Cur. IRG + Cur. Recoveries</p>
                         </div>
                     </div>
                 </div>
