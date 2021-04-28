@@ -1,7 +1,27 @@
 <?php
 include_once PAGE_PARTIALS_PATH . DS . 'header.php';
+
+$month = "jan";
+
+if(isset($_GET['month'])){
+
+
+
+    if(file_exists("../src/data/".$_GET['month'].".json")){
+
+        $month = $_GET['month'];
+    }
+    else{
+
+        echo "<script> var exists = false; </script>";
+    }
+
+    
+
+}
  
-$string = file_get_contents("../src/data/jan.json");
+$string = file_get_contents("../src/data/".$month.".json");
+
 $json_data = json_decode($string, true);
  
 
@@ -35,7 +55,7 @@ function getRevenueLeagueClass($index, $count){
             $style .= "background-color:#a72626 !important;";
             break;
           default:
-           $style = "color:#000";
+           $style = "color:#000";  
            break;
 
         
@@ -58,20 +78,20 @@ function getRevenueLeagueClass($index, $count){
                     </a>
                     <div class="form-group">
                         <div class="input-group input-group-sm">
-                            <select class="form-control my-1 my-md-0">
-                                <option>Select Month</option>
-                                <option>January</option>
-                                <option>Febuary</option>
-                                <option selected>March</option>
-                                <option>April</option>
-                                <option>May</option>
-                                <option>June</option>
-                                <option>July</option>
-                                <option>August</option>
-                                <option>September</option>
-                                <option>October</option>
-                                <option>November</option>
-                                <option>December</option>
+                            <select class="form-control my-1 my-md-0" id='month' onchange="monthChanged()">
+                                <option value="">Select Month</option>
+                                <option <?php if($month == "jan") echo "selected" ?>>January</option>
+                                <option <?php if($month == "feb") echo "selected" ?>>Febuary</option>
+                                <option <?php if($month == "mar") echo "selected" ?>>March</option>
+                                <option> <?php if($month == "apr") echo "selected" ?>April</option>
+                                <option <?php if($month == "may") echo "selected" ?>>May</option>
+                                <option <?php if($month == "jun") echo "selected" ?>>June</option>
+                                <option <?php if($month == "jul") echo "selected" ?>>July</option>
+                                <option <?php if($month == "aug") echo "selected" ?>>August</option>
+                                <option <?php if($month == "sep") echo "selected" ?>>September</option>
+                                <option <?php if($month == "oct") echo "selected" ?>>October</option>
+                                <option <?php if($month == "nov") echo "selected" ?>>November</option>
+                                <option <?php if($month == "dec") echo "selected" ?>>December</option>
                             </select>
                         </div>
                     </div>
@@ -178,4 +198,46 @@ function getRevenueLeagueClass($index, $count){
 
 <?php
 include_once PAGE_PARTIALS_PATH . DS . 'footer.php';
+
+
 ?>
+
+<script>
+function monthChanged() {
+
+
+    var selected = document.getElementById("month").value;
+
+    if (selected) {
+
+        selected = selected.toLowerCase();
+
+        selected = selected.substring(0, 3);
+
+
+
+        var host = window.location.href;
+
+        var url = host;
+
+        if (host.indexOf("?") > 0) {
+
+            url = url.split("?")[0];
+        }
+
+        var url = url + "?month=" + selected;
+
+
+        window.location.href = url;
+    }
+
+
+
+}
+
+
+if (!exists) {
+
+    alert("Month not available");
+}
+</script>
