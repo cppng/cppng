@@ -911,7 +911,7 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                             <td>76</td>
                             <td> PLATEAU STATE BUREAU OF STATISTICS </td>
                             <td class="text-right">10000.00</td>
-                            <tdclass="text-right">833.33</tdclass=>
+                            <td class="text-right">833.33</td>
                             <!-- <td>0.00</td>
                             <td>0.00</td>
                             <td>0.00</td>
