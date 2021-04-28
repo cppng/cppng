@@ -61,7 +61,7 @@
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE CHAMPIONS</h4>
 
             <div class="table-responsive">
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="januray" style="display:table">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_january" style="display:table">
 
                     <thead class="thead-light">
                         <tr>
@@ -119,7 +119,7 @@
                     </tbody>
                 </table>
 
-                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="march" style="display:none">
+                <table class="table table-borderless table-hover table-nowrap table-centered m-0" id="month_march" style="display:none">
 
                     <thead class="thead-light">
                         <tr>
