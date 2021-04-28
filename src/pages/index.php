@@ -77,7 +77,7 @@
         </div>
     </div>
 
-    <div class="col-md-6 col-xl-3">
+    <div class="col-md-4 col-xl-4">
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
@@ -101,7 +101,7 @@
 
 
 
-    <div class="col-md-6 col-xl-3">
+    <div class="col-md-4 col-xl-4">
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
@@ -123,7 +123,7 @@
         </div>
     </div>
 
-    <div class="col-md-6 col-xl-3">
+    <div class="col-md-4 col-xl-4">
         <div class="widget-rounded-circle card">
             <div class="card-body">
                 <div class="row">
