@@ -66,8 +66,8 @@
                     <thead class="thead-light">
                         <tr>
                             <th class="font-weight-medium">S/N</th>
-                            <th class="font-weight-medium"></th>
-                            <th class="font-weight-medium">Name</th>
+                            <!-- <th class="font-weight-medium"></th> -->
+                            <!-- <th class="font-weight-medium">Name</th> -->
                             <th class="font-weight-medium">MDA</th>
                             <th class="font-weight-medium">Reward Disbursed</th>
                             
@@ -76,10 +76,10 @@
                     <tbody>
                         <tr class="bg-soft-success">
                             <td style="width: 36px;">1</td>
-                            <td style="width: 36px;">
+                            <!-- <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
-                            </td>
-                            <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td>
+                            </td> -->
+                            <!-- <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td> -->
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
                             <td>Car</td>    
                             
@@ -90,10 +90,10 @@
                             <td style="width: 36px;">
                                 2
                             </td>
-                            <td style="width: 36px;">
+                            <!-- <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
-                            <td><h5 class="m-0 font-weight-normal">Plantok Larry</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Plantok Larry</h5></td> -->
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                             </td>
@@ -108,11 +108,11 @@
                             <td style="width: 36px;">
                                 3	
                             </td>
-                            <td style="width: 36px;">
+                            <!-- <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
-                            <td><h5 class="m-0 font-weight-normal">Gyang Choji</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">Gyang Choji</h5></td> -->
                             <td>
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
@@ -127,11 +127,11 @@
                             <td style="width: 36px;">
                                 4
                             </td>
-                            <td style="width: 36px;">
+                            <!-- <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
-                            </td>
+                            </td> -->
                             
-                            <td><h5 class="m-0 font-weight-normal">Sunday Izang</h5></td>
+                            <!-- <td><h5 class="m-0 font-weight-normal">Sunday Izang</h5></td> -->
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE	</h5>
@@ -150,13 +150,13 @@
                                 5
                             </td>
 
-                            <td style="width: 36px;">
+                            <!-- <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
                             <td>
                                 <h5 class="m-0 font-weight-normal">Paulina Bitrus</h5>
-                            </td>
+                            </td> -->
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
                             </td>
