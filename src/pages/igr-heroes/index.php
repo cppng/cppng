@@ -158,7 +158,7 @@
 
         function showTable(){
             var selected = document.getElementById("hero_month").value;
-            console.log(select)
+            console.log(selected)
             if(selected== 'january'){
                 document.getElementById('january').style.display = "table";
             } else{
