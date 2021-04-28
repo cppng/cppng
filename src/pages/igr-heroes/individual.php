@@ -79,7 +79,7 @@
                             <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
-                            <td><h5 class="m-0 font-weight-normal">Nani Paul</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">NANI PAUL</h5></td>
                             <td><h5 class="m-0 font-weight-normal">PLATEAU STATE MUSLIM PILGRIMS WELFARE</h5></td>    
                             <td>Car</td>                               
                             
@@ -92,7 +92,7 @@
                             <td style="width: 36px;">
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
-                            <td><h5 class="m-0 font-weight-normal">Plantok Larry</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">PLANTOK LARRY</h5></td>
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
                             </td>
@@ -111,7 +111,7 @@
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
-                            <td><h5 class="m-0 font-weight-normal">Gyang Choji</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">GYANG CHOJI</h5></td>
                             <td>
                                 <h5 class="m-0 font-weight-normal">KABONG MARKET	</h5>
                             </td>
@@ -130,7 +130,7 @@
                                 <img src="./assets/images/person.jpeg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm">
                             </td>
                             
-                            <td><h5 class="m-0 font-weight-normal">Sunday Izang</h5></td>
+                            <td><h5 class="m-0 font-weight-normal">SUNDAY IZANG</h5></td>
 
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE	</h5>
@@ -154,7 +154,7 @@
                             </td>
                             
                             <td>
-                                <h5 class="m-0 font-weight-normal">Paulina Bitrus</h5>
+                                <h5 class="m-0 font-weight-normal">PAULINA BITRUS</h5>
                             </td>
                             <td>
                                 <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
