@@ -12,20 +12,20 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
                     <div class="form-group">
                         <div class="input-group input-group-sm">
                             <select class="form-control my-1 my-md-0">
-                                    <option>Select</option>
-                                    <option>January</option>
-                                    <option>Febuary</option>
-                                    <option selected>March</option>
-                                    <option>April</option>
-                                    <option>May</option>
-                                    <option>June</option>
-                                    <option>July</option>
-                                    <option>August</option>
-                                    <option>September</option>
-                                    <option>October</option>
-                                    <option>November</option>
-                                    <option>December</option>
-                                </select>
+                                <option>Select Month</option>
+                                <option>January</option>
+                                <option>Febuary</option>
+                                <option selected>March</option>
+                                <option>April</option>
+                                <option>May</option>
+                                <option>June</option>
+                                <option>July</option>
+                                <option>August</option>
+                                <option>September</option>
+                                <option>October</option>
+                                <option>November</option>
+                                <option>December</option>
+                            </select>
                         </div>
                     </div>
                     <a href="/league/cummulative" class="btn btn-blue btn-sm ml-2">
