@@ -49,20 +49,21 @@ options = {
   colors: colors,
   dataLabels: { enabled: !0, enabledOnSeries: [1] },
   labels: [
+    
     "Jan",
     "Feb",
     "Mar",
     "Apr",
     "May",
     "Jun",
-    "Jul",
+    "JUl",
     "Aug",
-    "Sept",
-    "Oct",
+    "Sept.",
+    "Oct.",
     "Nov",
-    "Dec"
+    "Dec.",
   ],
-  xaxis: { type: "datetime" },
+  xaxis: { type: "date" },
   legend: { offsetY: 7 },
   grid: { padding: { bottom: 20 } },
   fill: {
