@@ -1,41 +1,3 @@
-<?php
-// Include config file
-// require_once "config.php";
- 
-// Define variables and initialize with empty values
-$username = $password = "";
-$username_err = $password_err = "";
-
-
- 
-// Processing form data when form is submitted
-if($_SERVER["REQUEST_METHOD"] == "POST"){
-    echo($_POST["username"]);
-    echo($_POST["password"]);
-    die();
-    // Validate username
-    if(empty(trim($_POST["username"]))){
-        $username_err = "Please enter a username.";
-    }    
-    // Validate password
-    if(empty(trim($_POST["password"]))){
-        $password_err = "Please enter a password.";     
-    } elseif(strlen(trim($_POST["password"])) < 6){
-        $password_err = "Password must have atleast 6 characters.";
-    } else{
-        $password = trim($_POST["password"]);
-    }
-    
-    
-    // Check input errors before inserting in database
-    if(empty($username_err) && empty($password_err)){
-      if($_POST["username"] == 'admin' && $_POST["password"] == '1234567') {
-        header('Location: /admin');
-      }
-    }
-    
-}
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -111,15 +73,14 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                       >Username</label
                     >
                     <input
-                      class="form-control <?php echo (!empty($username_err)) ? 'is-invalid' : ''; ?>"
+                      class="form-control"
                       type="text"
                       id="username"
                       required=""
                       placeholder="Enter your username"
                       name="username"
-                      value="<?php echo $username; ?>"
                     />
-                    <span class="invalid-feedback"><?php echo $username_err; ?></span>
+                    
                   </div>
 
                   <div class="mb-3">
@@ -128,12 +89,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                       <input
                         type="password"
                         id="password"
-                        class="form-control <?php echo (!empty($password_err)) ? 'is-invalid' : ''; ?>"
+                        class="form-control"
                         placeholder="Enter your password"
                         name="password"
-                        value="<?php echo $password; ?>"
+                        
                       />
-                      <span class="invalid-feedback"><?php echo $password_err; ?></span>
+                      
                       <div class="input-group-text" data-password="false">
                         <span class="password-eye"></span>
                       </div>

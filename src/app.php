@@ -9,9 +9,9 @@ $PUBLIC_ROUTES = ['league', 'igr-heroes'];
 
 $LOGGED_IN_ADMIN = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADMIN'] : FALSE;
 
-// if(!in_array(strtolower($REQ_PAGES[0]), $PUBLIC_ROUTES) && ! $LOGGED_IN_ADMIN) {
-//   // header('Location: /auth/login');
-// }
+if(strtolower($REQ_PAGES[0]) === 'admin' && !$LOGGED_IN_ADMIN) {
+  header('Location: /auth/login');
+}
 
 foreach ($REQ_PAGES as $PG_SEG) {
   $PAGE_PATH .= DS . strtolower($PG_SEG);

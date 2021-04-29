@@ -29,7 +29,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     // Check input errors before inserting in database
     if(empty($username_err) && empty($password_err)){
       if($_POST["username"] == 'admin' && $_POST["password"] == '1234567') {
-        $_SESSION['LOGGED_IN_ADMIN'];
+        $_SESSION['LOGGED_IN_ADMIN'] = true;
         header('Location: /admin');
       }
     }
