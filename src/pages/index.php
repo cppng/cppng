@@ -210,7 +210,7 @@
                 <h4 class="header-title mb-3">IGR Chart</h4>
 
                 <div dir="ltr">
-                    <div id="sales-analytics" class="mt-4" data-colors="#43bfe5,#6c757d"></div>
+                    <div id="sales-analytics" class="mt-4" data-colors="#43bfe5, #6c757d"></div>
                 </div>
             </div>
         </div>
