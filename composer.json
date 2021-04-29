@@ -1,1 +1,11 @@
-{}
+{
+    "name": "nanipaul/cppng",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nani Paul",
+            "email": "nanipaul68@gmail.com"
+        }
+    ]
+}

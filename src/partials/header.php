@@ -40,10 +40,9 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
 
 
     <style>
-    .dashboard-digit-text {
-
-        font-size: 70% !important;
-    }
+        .dashboard-digit-text {
+            font-size: 70% !important;
+        }
     </style>
 
 </head>
@@ -215,13 +214,15 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                     <ul id="side-menu">
 
                         <li class="menu-title">Navigation</li>
-
-                        <li>
-                            <a href="/">
-                                <i data-feather="airplay"></i>
-                                <span> Dashboards </span>
-                            </a>
-                        </li>
+                        
+                        <?php if ($isAdmin){ ?>
+                            <li>
+                                <a href="/">
+                                    <i data-feather="airplay"></i>
+                                    <span> Dashboard </span>
+                                </a>
+                            </li>
+                        <?php } ?>
 
                         <li>
                             <a href="/league">

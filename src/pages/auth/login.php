@@ -1,6 +1,45 @@
+<?php
+// Include config file
+// require_once "config.php";
+ 
+// Define variables and initialize with empty values
+$username = $password = "";
+$username_err = $password_err = "";
+
+
+ 
+// Processing form data when form is submitted
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+    echo($_POST["username"]);
+    echo($_POST["password"]);
+    die();
+    // Validate username
+    if(empty(trim($_POST["username"]))){
+        $username_err = "Please enter a username.";
+    }    
+    // Validate password
+    if(empty(trim($_POST["password"]))){
+        $password_err = "Please enter a password.";     
+    } elseif(strlen(trim($_POST["password"])) < 6){
+        $password_err = "Password must have atleast 6 characters.";
+    } else{
+        $password = trim($_POST["password"]);
+    }
+    
+    
+    // Check input errors before inserting in database
+    if(empty($username_err) && empty($password_err)){
+      if($_POST["username"] == 'admin' && $_POST["password"] == '1234567') {
+        header('Location: /admin');
+      }
+    }
+    
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head>  
     <meta charset="utf-8" />
     <title>Dashboard | Revenue</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -66,19 +105,21 @@
                   </p>
                 </div>
 
-                <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
+                <form action="/auth/do_login" method="post">
                   <div class="mb-3">
-                    <label for="emailaddress" class="form-label"
+                    <label for="username" class="form-label"
                       >Username</label
                     >
                     <input
-                      class="form-control"
+                      class="form-control <?php echo (!empty($username_err)) ? 'is-invalid' : ''; ?>"
                       type="text"
-                      id="emailaddress"
+                      id="username"
                       required=""
-                      placeholder="Enter your email"
+                      placeholder="Enter your username"
                       name="username"
+                      value="<?php echo $username; ?>"
                     />
+                    <span class="invalid-feedback"><?php echo $username_err; ?></span>
                   </div>
 
                   <div class="mb-3">
@@ -87,10 +128,12 @@
                       <input
                         type="password"
                         id="password"
-                        class="form-control"
+                        class="form-control <?php echo (!empty($password_err)) ? 'is-invalid' : ''; ?>"
                         placeholder="Enter your password"
                         name="password"
+                        value="<?php echo $password; ?>"
                       />
+                      <span class="invalid-feedback"><?php echo $password_err; ?></span>
                       <div class="input-group-text" data-password="false">
                         <span class="password-eye"></span>
                       </div>
@@ -102,22 +145,7 @@
                       echo $msg;
                     } ?>
                   </p>
-                  <!--
-                  <div class="mb-3">
-                    <div class="form-check">
-                      <input
-                        type="checkbox"
-                        class="form-check-input"
-                        id="checkbox-signin"
-                        checked
-                      />
-                      <label class="form-check-label" for="checkbox-signin"
-                        >Remember me</label
-                      >
-                    </div>
-                  </div>
-                  -->
-
+                  
                   <div class="text-center d-grid">
                     <button class="btn btn-primary" type="submit">
                       Log In
@@ -128,23 +156,7 @@
               <!-- end card-body -->
             </div>
             <!-- end card -->
-            <!--
-            <div class="row mt-3">
-              <div class="col-12 text-center">
-                <p>
-                  <a href="auth-recoverpw.html" class="text-white-50 ms-1"
-                    >Forgot your password?</a
-                  >
-                </p>
-                <p class="text-white-50">
-                  Don't have an account?
-                  <a href="register.php" class="text-white ms-1"
-                    ><b>Sign Up</b></a
-                  >
-                </p>
-              </div>
-            </div>
-            -->
+           
             <!-- end row -->
           </div>
           <!-- end col -->
