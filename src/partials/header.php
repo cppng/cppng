@@ -40,10 +40,9 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
 
 
     <style>
-    .dashboard-digit-text {
-
-        font-size: 70% !important;
-    }
+        .dashboard-digit-text {
+            font-size: 70% !important;
+        }
     </style>
 
 </head>
@@ -100,7 +99,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                             data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
                             <img src="/assets/images/person.jpeg" alt="user-image" class="rounded-circle">
                             <span class="pro-user-name ml-1">
-                                Stanley <i class="mdi mdi-chevron-down"></i>
+                                Admin <i class="mdi mdi-chevron-down"></i>
                             </span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
@@ -130,7 +129,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                             <div class="dropdown-divider"></div>
 
                             <!-- item-->
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
+                            <a href="/auth/logout" class="dropdown-item notify-item">
                                 <i class="fe-log-out"></i>
                                 <span>Logout</span>
                             </a>
@@ -197,7 +196,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                     <div class="dropdown">
                         <a href="javascript: void(0);"
                             class="text-dark font-weight-normal dropdown-toggle h5 mt-2 mb-1 d-block"
-                            data-toggle="dropdown">Stanley Parker</a>
+                            data-toggle="dropdown">Admin</a>
                         <div class="dropdown-menu user-pro-dropdown">
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="fe-log-out mr-1"></i>
@@ -215,13 +214,15 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                     <ul id="side-menu">
 
                         <li class="menu-title">Navigation</li>
-
-                        <li>
-                            <a href="/">
-                                <i data-feather="airplay"></i>
-                                <span> Dashboards </span>
-                            </a>
-                        </li>
+                        
+                        <?php if ($isAdmin){ ?>
+                            <li>
+                                <a href="/">
+                                    <i data-feather="airplay"></i>
+                                    <span> Dashboard </span>
+                                </a>
+                            </li>
+                        <?php } ?>
 
                         <li>
                             <a href="/league">

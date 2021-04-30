@@ -1,6 +1,7 @@
+
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head>  
     <meta charset="utf-8" />
     <title>Dashboard | Revenue</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -66,19 +67,20 @@
                   </p>
                 </div>
 
-                <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
+                <form action="/auth/do_login" method="post">
                   <div class="mb-3">
-                    <label for="emailaddress" class="form-label"
+                    <label for="username" class="form-label"
                       >Username</label
                     >
                     <input
                       class="form-control"
                       type="text"
-                      id="emailaddress"
+                      id="username"
                       required=""
-                      placeholder="Enter your email"
+                      placeholder="Enter your username"
                       name="username"
                     />
+                    
                   </div>
 
                   <div class="mb-3">
@@ -90,7 +92,9 @@
                         class="form-control"
                         placeholder="Enter your password"
                         name="password"
+                        
                       />
+                      
                       <div class="input-group-text" data-password="false">
                         <span class="password-eye"></span>
                       </div>
@@ -102,22 +106,7 @@
                       echo $msg;
                     } ?>
                   </p>
-                  <!--
-                  <div class="mb-3">
-                    <div class="form-check">
-                      <input
-                        type="checkbox"
-                        class="form-check-input"
-                        id="checkbox-signin"
-                        checked
-                      />
-                      <label class="form-check-label" for="checkbox-signin"
-                        >Remember me</label
-                      >
-                    </div>
-                  </div>
-                  -->
-
+                  
                   <div class="text-center d-grid">
                     <button class="btn btn-primary" type="submit">
                       Log In
@@ -128,23 +117,7 @@
               <!-- end card-body -->
             </div>
             <!-- end card -->
-            <!--
-            <div class="row mt-3">
-              <div class="col-12 text-center">
-                <p>
-                  <a href="auth-recoverpw.html" class="text-white-50 ms-1"
-                    >Forgot your password?</a
-                  >
-                </p>
-                <p class="text-white-50">
-                  Don't have an account?
-                  <a href="register.php" class="text-white ms-1"
-                    ><b>Sign Up</b></a
-                  >
-                </p>
-              </div>
-            </div>
-            -->
+           
             <!-- end row -->
           </div>
           <!-- end col -->
