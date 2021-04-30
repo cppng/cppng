@@ -198,7 +198,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                             class="text-dark font-weight-normal dropdown-toggle h5 mt-2 mb-1 d-block"
                             data-toggle="dropdown">Admin</a>
                         <div class="dropdown-menu user-pro-dropdown">
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
+                            <a href="/auth/logout" class="dropdown-item notify-item">
                                 <i class="fe-log-out mr-1"></i>
                                 <span>Logout</span>
                             </a>
@@ -217,7 +217,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                         
                         <?php if ($isAdmin){ ?>
                             <li>
-                                <a href="/">
+                                <a href="/admin">
                                     <i data-feather="airplay"></i>
                                     <span> Dashboard </span>
                                 </a>
