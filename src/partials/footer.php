@@ -11,7 +11,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="text-md-right footer-links d-none d-sm-block">
-                                    <a href="index.php">Admin Login</a>
+                                    <a href="/auth/login">Admin Login</a>
                                 </div>
                             </div>
                         </div>

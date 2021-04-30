@@ -233,52 +233,128 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr class="text-white" style="background-color: #3e6551;">
+                            <tr class="text-white" style="background-color: #3e6551; ">
                                 <td style="width: 36px;">1</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal text-white">PLATEAU STATE MUSLIM PILGRIMS WELFARE
-                                    </h5>
+                                    <h5 class="m-0 font-weight-normal text-white text-left">
+                                        PLATEAU STATE LOCAL GOVERNMENT SERVICE </h5>
                                 </td>
-                                <td class="text-right">213,750</td>
-                                <td class="text-right">1,934,000</td>
-                                <td class="text-right">90.5</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        500,000</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        41,667</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        149,700</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        359</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-
-                            <tr class="bg-success">
+                            <tr class="text-dark" style="background-color: #11ca6d!important; ">
                                 <td style="width: 36px;">2</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        JOS MAIN MARKET AUTHORITY - PLATEAU STATE </h5>
                                 </td>
-                                <td class="text-right">35,174,466</td>
-                                <td class="text-right">237,279,147</td>
-                                <td class="text-right">67.5 </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        2,565,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        213,750                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        690,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        323</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-                            <tr class="bg-soft-success">
+
+                            <tr class="text-dark" style="background-color:rgba(17,202,109,.25)!important; ">
                                 <td style="width: 36px;">3</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">KABONG MARKET</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        HIGH COURT OF JUSTICE - PLATEAU STATE </h5>
                                 </td>
-                                <td class="text-right">41,666</td>
-                                <td class="text-right">149,700</td>
-                                <td class="text-right">35.9</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        47,100,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        3,925,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        11,380,048                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        290</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-                            <tr>
+
+                            <tr class="text-dark" style="color:#000 ">
                                 <td style="width: 36px;">4</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        MINISTRY OF INFORMATION AND COMMUNICATION</h5>
                                 </td>
-                                <td class="text-right">3,925,000</td>
-                                <td class="text-right">11,380,048</td>
-                                <td class="text-right">28.9</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        2,000,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        166,667                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        340,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        204</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-                            <tr>
+
+                            <tr class="text-dark" style="color:#000 ">
                                 <td style="width: 36px;">5</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        PLATEAU STATE UNIVERSITY, BOKKOS</h5>
                                 </td>
-                                <td class="text-right">166,666</td>
-                                <td class="text-right">340,000</td>
-                                <td class="text-right">20.4</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        302,351,500                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        25,195,958                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        41,346,010                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        164</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
                         </tbody>
                     </table>
@@ -290,65 +366,140 @@
     <div class="col-lg-6">
         <div class="card">
             <div class="card-body">
-                <h4 class="header-title mb-0">Top 5 MDAs Cummulative</h4>
+                <h4 class="header-title mb-0">Top 5 MDAs Cummulative (March)</h4>
                 <div class="table-responsive">
                     <table class="table table-borderless table-hover table-nowrap table-centered m-0">
                         <thead class="thead-light">
                             <tr>
-                                <th class="font-weight-medium">S/N</th>
+                                <th class="font-weight-medium">LEAGUE POSITION</th>
                                 <th class="font-weight-medium">MDA</th>
+                                <th class="font-weight-medium">Budget </th>
                                 <th class="font-weight-medium text-right">Target(N)</th>
                                 <th class="font-weight-medium text-right">Actual IGR</th>
-                                <th class="font-weight-medium text-right">Point</th>
+                                <th class="font-weight-medium text-right">Total League Points</th>
                             </tr>
                         </thead>
                         <tbody>
-                            <tr class="text-white" style="background-color: #3e6551;">
+                            <tr class="text-white" style="background-color: #3e6551; ">
                                 <td style="width: 36px;">1</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal text-white">PLATEAU STATE MUSLIM PILGRIMS WELFARE
-                                    </h5>
+                                    <h5 class="m-0 font-weight-normal text-white text-left">
+                                        MINISTRY OF JUSTICE - PLATEAU STATE </h5>
                                 </td>
-                                <td class="text-right">213,750</td>
-                                <td class="text-right">1,934,000</td>
-                                <td class="text-right">90.5</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        10,150,000</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        845,833</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        12,745,000</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                        1,507</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
 
-                            <tr class="bg-success">
+                            <tr class="text-dark" style="background-color: #11ca6d!important; ">
                                 <td style="width: 36px;">2</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">PLATEAU STATE AUDIT DEPARTMENT</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        COLLEGE OF HEALTH TECHNOLOGY, PANKSHIN - </h5>
                                 </td>
-                                <td class="text-right">35,174,466</td>
-                                <td class="text-right">237,279,147</td>
-                                <td class="text-right">67.5 </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        80,235,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        6,686,250                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        71,355,245                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        1,067</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-                            <tr class="bg-soft-success">
+                            <tr class="text-dark" style="background-color:rgba(17,202,109,.25)!important; ">
                                 <td style="width: 36px;">3</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">KABONG MARKET</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        PLATEAU STATE LOCAL GOVERNMENT AUDIT</h5>
                                 </td>
-                                <td class="text-right">41,666</td>
-                                <td class="text-right">149,700</td>
-                                <td class="text-right">35.9</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        480,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        40,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        190,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        475</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-                            <tr>
+                            <tr class="text-dark" style="color:#000 ">
                                 <td style="width: 36px;">4</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">PLATEAU STATE FIRE SERVICE DIRECTORATE</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        HIGH COURT OF JUSTICE - PLATEAU STATE </h5>
                                 </td>
-                                <td class="text-right">3,925,000</td>
-                                <td class="text-right">11,380,048</td>
-                                <td class="text-right">28.9</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        47,100,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        3,925,000                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        18,178,199                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        463</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
-                            <tr>
+                            <tr class="text-dark" style="color:#000 ">
                                 <td style="width: 36px;">5</td>
                                 <td>
-                                    <h5 class="m-0 font-weight-normal">PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        PLATEAU STATE INTERNAL REVENUE SERVICE</h5>
                                 </td>
-                                <td class="text-right">166,666</td>
-                                <td class="text-right">340,000</td>
-                                <td class="text-right">20.4</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        16,343,641,372                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        1,361,970,114                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        5,545,362,108                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                        407</h5>
+                                </td>
+                                <!-- <td>904.80%</td> -->
                             </tr>
                         </tbody>
                     </table>
