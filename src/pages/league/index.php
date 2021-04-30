@@ -1,7 +1,7 @@
 <?php
 include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 
-$month = "jan";
+$month = "mar";
 
 if(isset($_GET['month'])){
 
@@ -10,7 +10,7 @@ if(isset($_GET['month'])){
         $month = $_GET['month'];
     }
     else{
-         $month = 'jan_cumm';
+         $month = 'noData';
     }
         
 
