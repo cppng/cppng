@@ -99,7 +99,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                             data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
                             <img src="/assets/images/person.jpeg" alt="user-image" class="rounded-circle">
                             <span class="pro-user-name ml-1">
-                                Stanley <i class="mdi mdi-chevron-down"></i>
+                                Admin <i class="mdi mdi-chevron-down"></i>
                             </span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
@@ -196,7 +196,7 @@ $isAdmin = isset($_SESSION['LOGGED_IN_ADMIN']) ?  (bool)$_SESSION['LOGGED_IN_ADM
                     <div class="dropdown">
                         <a href="javascript: void(0);"
                             class="text-dark font-weight-normal dropdown-toggle h5 mt-2 mb-1 d-block"
-                            data-toggle="dropdown">Stanley Parker</a>
+                            data-toggle="dropdown">Admin</a>
                         <div class="dropdown-menu user-pro-dropdown">
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="fe-log-out mr-1"></i>
