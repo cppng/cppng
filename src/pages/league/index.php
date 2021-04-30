@@ -10,7 +10,7 @@ if(isset($_GET['month'])){
         $month = $_GET['month'];
     }
     else{
-         $month = 'jan_cumm';
+         $month = 'noData';
     }
         
 

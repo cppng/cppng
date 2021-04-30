@@ -11,9 +11,7 @@ if(isset($_GET['month'])){
         $month = $_GET['month'];
     }
     else{
-
-        echo "<script> var exists = false; </script>";
-
+         $month = 'noData';
     }
 }
 
@@ -119,7 +117,7 @@ function getRevenueLeagueClass($index, $count){
             </div>
 
             <h4 class="header-title mb-3">PLATEAU STATE REVENUE LEAGUE (CUMMULATIVE)
-                <?php echo "Jan - ".ucfirst($month); ?>
+                <?php echo "Jan - ".ucfirst($month == "noData"?"":$month); ?>
             </h4>
 
             <div class="table-responsive">
