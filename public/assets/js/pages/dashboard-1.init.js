@@ -35,12 +35,12 @@ options = {
     {
       name: "PSIRS",
       type: "column",
-      data: ['4704283495.50', '841078612.22', '998284596.18', 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      data: ["4704283495.50", '841078612.22', '998284596.18', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
     },
     {
       name: "MDAs",
       type: "column",
-      data: ['212168681.84', '177493633.29', '165051619.77', 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      data: ['212168681.84', '177493633.29', '165051619.77', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
     },
   ],
   chart: { height: 378, type: "line", offsetY: 10 },
@@ -48,8 +48,7 @@ options = {
   plotOptions: { bar: { columnWidth: "50%" } },
   colors: colors,
   dataLabels: { enabled: !0, enabledOnSeries: [1] },
-  labels: [
-    
+  labels: [    
     "Jan",
     "Feb",
     "Mar",
@@ -87,10 +86,4 @@ options = {
 (chart = new ApexCharts(
   document.querySelector("#sales-analytics"),
   options
-)).render(),
-  $("#dash-daterange").flatpickr({
-    altInput: !0,
-    mode: "range",
-    altFormat: "F j, y",
-    defaultDate: "today",
-  });
+)).render();

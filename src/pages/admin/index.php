@@ -45,7 +45,7 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦947,292</span>
+                                <span class='dashboard-digit-text'>₦1,163,336,215.95</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Current IGR</p>
                         </div>
@@ -69,7 +69,7 @@
                             <h3 class="text-dark mt-1">
                                 <span class='dashboard-digit-text'>₦22,735,008,960</span>
                             </h3>
-                            <p class="text-muted mb-1">Total IGR | Current IRG (₦947,292) + Current Recoveries (₦1,026,353)</p>
+                            <p class="text-muted mb-1">Total IGR | Current IGR (₦1,163,336,215.95) + Current Recoveries (₦1,026,353)</p>
                         </div>
                     </div>
                 </div>
