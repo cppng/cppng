@@ -25,6 +25,7 @@ var options = {
   document.querySelector("#total-revenue"),
   options
 )).render();
+
 var dataColors;
 colors = ["#1abc9c", "#4a81d4"];
 (dataColors = $("#sales-analytics").data("colors")) &&
@@ -35,12 +36,12 @@ options = {
     {
       name: "PSIRS",
       type: "column",
-      data: ["4704283495.50", '841078612.22', '998284596.18', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
+      data: ["212168681", '177493633', '165051619', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
     },
     {
       name: "MDAs",
       type: "column",
-      data: ['212168681.84', '177493633.29', '165051619.77', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
+      data: ['4704283495', '841078612', '998284596', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
     },
   ],
   chart: { height: 378, type: "line", offsetY: 10 },
@@ -75,7 +76,7 @@ options = {
       inverseColors: !0,
       opacityFrom: 0.75,
       opacityTo: 0.75,
-      stops: [0, 0, 0],
+      // stops: [0, 0, 0],
     },
   },
   yaxis: [

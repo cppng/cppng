@@ -23,7 +23,7 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦947,292,040</span>
+                                <span class='dashboard-digit-text'>₦1,812,955,580.58</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Target IGR</p>
                         </div>
@@ -67,9 +67,9 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦22,735,008,960</span>
+                                <span class='dashboard-digit-text'>₦7,484,592,493.06</span>
                             </h3>
-                            <p class="text-muted mb-1">Total IGR | Current IGR (₦1,163,336,215.95) + Current Recoveries (₦1,026,353)</p>
+                            <p class="text-muted mb-1">Total IGR | Actual IGR (₦3,684,529,493.06) + Recoveries (₦3,800,000,000)</p>
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,7 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦1,026,353,980</span>
+                                <span class='dashboard-digit-text'>₦ 0</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Cumulative Shortfall</p>
                         </div>
@@ -113,7 +113,7 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'> ₦1,026,353</span>
+                                <span class='dashboard-digit-text'> - ₦649,619,292.63</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Current Shortfall</p>
                         </div>
@@ -135,7 +135,7 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦1,026,353,980</span>
+                                <span class='dashboard-digit-text'>₦3,800,000,000</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Cummulative Recoveries</p>
                         </div>
@@ -157,7 +157,7 @@
                     <div class="col-8">
                         <div class="text-end">
                             <h3 class="text-dark mt-1">
-                                <span class='dashboard-digit-text'>₦1,026,353</span>
+                                <span class='dashboard-digit-text'>₦0</span>
                             </h3>
                             <p class="text-muted mb-1 text-truncate">Current Recoveries (March)</p>
                         </div>
@@ -175,14 +175,14 @@
                 <div class="row">
                     <div class="col-4">
                         <div class="avatar-lg rounded-circle bg-soft-blue border-blue border">
-                            <i class="fe-users font-22 avatar-title text-blue"></i>
+                            <i class=" fe-hash font-22 avatar-title text-blue"></i>
                         </div>
                     </div>
                     <div class="col-8">
                         <div class="text-end">
-                            <h3 class="text-dark mt-1"><span class='dashboard-digit-text'>557,435 </span></h3>
+                            <h3 class="text-dark mt-1"><span class='dashboard-digit-text'>₦1,228,176,497.69 </span></h3>
                             <p class="text-muted mb-1 text-truncate">
-                                Total Tax Payers
+                                Average IGR
                             </p>
                         </div>
                     </div>
@@ -206,10 +206,77 @@
                         </button>
                     </div>
                 </div>
-                <h4 class="header-title mb-3">IGR Chart</h4>
+                <h4 class="header-title mb-3">IGR Table</h4>
 
                 <div dir="ltr">
-                    <div id="sales-analytics" class="mt-4" data-colors="#43bfe5, #6c757d"></div>
+                    <!-- <div id="sales-analytics" class="mt-4" data-colors="#43bfe5, #6c757d"></div> -->
+                    <div class="table-responsive">
+                    <table class="table table-borderless table-hover table-nowrap table-centered m-0">
+                        <thead class="thead-light">
+                            <tr>
+                                <th class="font-weight-medium">S/N</th>
+                                <th class="font-weight-medium">Month</th>
+                                <th class="font-weight-medium text-right">PSIRS </th>
+                                <th class="font-weight-medium text-right">MDA</th>
+                                <!-- <th class="font-weight-medium text-right">Actual IGR</th> -->
+                                <!-- <th class="font-weight-medium text-right">Point</th> -->
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="text-white" style="background-color: #3e6551; ">
+                                <td style="width: 36px;">1</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-left">
+                                        January </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                    ₦4,704,283,495.50</h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-white text-right">
+                                    ₦212,168,681.84</h5>
+                                </td>
+                                
+                                <!-- <td>904.80%</td> -->
+                            </tr>
+                            <tr class="text-dark" style="background-color: #11ca6d!important; ">
+                                <td style="width: 36px;">2</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        February </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    ₦841,078,612.22                                </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    ₦177,493,633.29                                </h5>
+                                </td>
+                                
+                            </tr>
+
+                            <tr class="text-dark" style="background-color:rgba(17,202,109,.25)!important; ">
+                                <td style="width: 36px;">3</td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark">
+                                        March </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    ₦998,284,596.18                               </h5>
+                                </td>
+                                <td>
+                                    <h5 class="m-0 font-weight-normal text-dark text-right">
+                                    ₦165,051,619.77                               </h5>
+                                </td>
+                                
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
                 </div>
             </div>
         </div>
