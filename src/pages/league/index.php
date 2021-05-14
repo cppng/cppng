@@ -4,16 +4,12 @@ include_once PAGE_PARTIALS_PATH . DS . 'header.php';
 $month = "mar";
 
 if(isset($_GET['month'])){
-
     if(file_exists("../src/data/".$_GET['month'].".json")){
-
         $month = $_GET['month'];
     }
     else{
-         $month = 'noData';
+        $month = 'noData';
     }
-        
-
 }
  
 $string = file_get_contents("../src/data/".$month.".json");
@@ -23,41 +19,33 @@ $json_data = json_decode($string, true);
 
 function getRevenueLeagueClass($index, $count){
 
-     $style = ""; 
-     
+    $style = "";     
 
     switch($index){
 
         case 1:
             $style .= "background-color: #3e6551;";
             break;
-
         case 2:
-
             $style .= "background-color: #11ca6d!important;";
             break;
-
         case 3: 
             $style .= "background-color:rgba(17,202,109,.25)!important;";
             break;
-
-         case $count - 2: 
+        case $count - 2: 
             $style .= "background-color:rgba(243,93,93,.25)!important;";
             break;
         case $count - 1 :
             $style .= "background-color:#f35d5d!important;";
             break;
-         case $count: 
+        case $count: 
             $style .= "background-color:#a72626 !important;";
             break;
-          default:
-           $style = "color:#000";  
-           break;
-
-        
+        default:
+            $style = "color:#000";  
+            break;      
 
     }
-
     return $style;
 }
  

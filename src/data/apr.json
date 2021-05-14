@@ -1,0 +1,610 @@
+[
+    {
+        "S/N": "1",
+        "FIELD2": "MINISTRY OF YOUTH AND SPORTS DEVELOPMENT - ",
+        "FIELD3": "2210000",
+        "FIELD4": "184166",
+        "FIELD5": "68870000 ",
+        "FIELD6": "373"
+    },
+    {
+        "S/N": "2",
+        "FIELD2": "PLATEAU STATE LOCAL GOVERNMENT SERVICE ",
+        "FIELD3": "500000",
+        "FIELD4": "41666",
+        "FIELD5": "95500",
+        "FIELD6": "229"
+    },
+    {
+        "S/N": "3",
+        "FIELD2": "MINISTRY OF WATER RESOURCES AND ENERGY - ",
+        "FIELD3": "51050000",
+        "FIELD4": "4254166",
+        "FIELD5": "5567333",
+        "FIELD6": "130"
+    },
+    {
+        "S/N": "4",
+        "FIELD2": "PLATEAU STATE BUREAU OF PUBLIC PROCUREMENT",
+        "FIELD3": "5200000",
+        "FIELD4": "433333",
+        "FIELD5": "480000",
+        "FIELD6": "110"
+    },
+    {
+        "S/N": "5",
+        "FIELD2": "PLATEAU RADIO TELEVISION CORPORATION-TV",
+        "FIELD3": "118020000",
+        "FIELD4": "9835000",
+        "FIELD5": "10112812",
+        "FIELD6": "102"
+    },
+    {
+        "S/N": "6",
+        "FIELD2": "MINISTRY OF MINERAL DEVELOPMENT",
+        "FIELD3": "56500000",
+        "FIELD4": "4708333",
+        "FIELD5": "4810000",
+        "FIELD6": "102"
+    },
+    {
+        "S/N": "7",
+        "FIELD2": "PLATEAU STATE FIRE SERVICE DIRECTORATE",
+        "FIELD3": "2750000",
+        "FIELD4": "229166",
+        "FIELD5": "225000",
+        "FIELD6": "98"
+    },
+    {
+        "S/N": "8",
+        "FIELD2": "PLATEAU STATE INTERNAL REVENUE SERVICE",
+        "FIELD3": "16343641372",
+        "FIELD4": "1361970114",
+        "FIELD5": "1297121244",
+        "FIELD6": "95"
+    },
+    {
+        "S/N": "9",
+        "FIELD2": "COLLEGE OF NURSING AND MIDWIFERY, VOM - ",
+        "FIELD3": "125500000",
+        "FIELD4": "10458333",
+        "FIELD5": "7511500",
+        "FIELD6": "71"
+    },
+    {
+        "S/N": "10",
+        "FIELD2": "PLATEAU STATE CIVIL SERVICE COMMISSION",
+        "FIELD3": "1500000",
+        "FIELD4": "125000",
+        "FIELD5": "77000",
+        "FIELD6": "61"
+    },
+    {
+        "S/N": "11",
+        "FIELD2": "PLATEAU STATE WATER BOARD",
+        "FIELD3": "243625000",
+        "FIELD4": "20302083",
+        "FIELD5": "11571360",
+        "FIELD6": "56"
+    },
+    {
+        "S/N": "12",
+        "FIELD2": "MINISTRY OF INFORMATION AND COMMUNICATION",
+        "FIELD3": "2000000",
+        "FIELD4": "166666",
+        "FIELD5": "90000",
+        "FIELD6": "54"
+    },
+    {
+        "S/N": "13",
+        "FIELD2": "HIGH COURT OF JUSTICE - PLATEAU STATE ",
+        "FIELD3": "47100000",
+        "FIELD4": "3925000",
+        "FIELD5": "1916821",
+        "FIELD6": "48"
+    },
+    {
+        "S/N": "14",
+        "FIELD2": "PLATEAU STATE LIBRARY BOARD",
+        "FIELD3": "250000",
+        "FIELD4": "20833",
+        "FIELD5": "10000",
+        "FIELD6": "48"
+    },
+    {
+        "S/N": "15",
+        "FIELD2": "MINISTRY OF HEALTH - PLATEAU STATE ",
+        "FIELD3": "8910000",
+        "FIELD4": "742500",
+        "FIELD5": "297000",
+        "FIELD6": "40"
+    },
+    {
+        "S/N": "16",
+        "FIELD2": "PLATEAU STATE SCHOLARSHIP BOARD",
+        "FIELD3": "3000000",
+        "FIELD4": "250000",
+        "FIELD5": "70500",
+        "FIELD6": "28"
+    },
+    {
+        "S/N": "17",
+        "FIELD2": "PLATEAU STATE TEACHERS SERVICE COMMISSION",
+        "FIELD3": "2800000",
+        "FIELD4": "233333",
+        "FIELD5": "62000",
+        "FIELD6": "26"
+    },
+    {
+        "S/N": "18",
+        "FIELD2": "COLLEGE OF AGRICULTURE, GARKAWA - PLATEAU ",
+        "FIELD3": "45000000",
+        "FIELD4": "3750000",
+        "FIELD5": "899327",
+        "FIELD6": "23"
+    },
+    {
+        "S/N": "19",
+        "FIELD2": "JOS METROPOLITAN DEVELOPMENT BOARD - ",
+        "FIELD3": "149100000",
+        "FIELD4": "12425000",
+        "FIELD5": "2794903",
+        "FIELD6": "22"
+    },
+    {
+        "S/N": "20",
+        "FIELD2": "MINISTRY OF LANDS, SURVEY AND TOWN ",
+        "FIELD3": "1063000000",
+        "FIELD4": "88583333",
+        "FIELD5": "17659059",
+        "FIELD6": "19"
+    },
+    {
+        "S/N": "21",
+        "FIELD2": "MINISTRY OF EDUCATION  AND  ERC PLATEAU STATE ",
+        "FIELD3": "420550000",
+        "FIELD4": "35045833",
+        "FIELD5": "6892720",
+        "FIELD6": "19"
+    },
+    {
+        "S/N": "22",
+        "FIELD2": "MINISTRY OF TOURISM, CULTURE AND HOSPT.",
+        "FIELD3": "22200000",
+        "FIELD4": "1850000",
+        "FIELD5": "348800",
+        "FIELD6": "18"
+    },
+    {
+        "S/N": "23",
+        "FIELD2": "MINISTRY OF TRANSPORT - PLATEAU STATE",
+        "FIELD3": "256550000",
+        "FIELD4": "2137916667",
+        "FIELD5": "3576280",
+        "FIELD6": "16"
+    },
+    {
+        "S/N": "24",
+        "FIELD2": "OFFICE OF THE SECRETARY TO THE GOVERNMENT",
+        "FIELD3": "20740000",
+        "FIELD4": "1728333",
+        "FIELD5": "258530",
+        "FIELD6": "14"
+    },
+    {
+        "S/N": "25",
+        "FIELD2": "MINISTRY OF FINANCE - BUREAU FOR BUDGET PLATEAU STATE ",
+        "FIELD3": "60000000",
+        "FIELD4": "5000000",
+        "FIELD5": "532527",
+        "FIELD6": "10"
+    },
+    {
+        "S/N": "26",
+        "FIELD2": "PLATEAU STATE UNIVERSAL BASIC EDUCATION",
+        "FIELD3": "55000000",
+        "FIELD4": "4583333",
+        "FIELD5": "390000",
+        "FIELD6": "8"
+    },
+    {
+        "S/N": "27",
+        "FIELD2": "PLATEAU STATE UNIVERSITY, BOKKOS",
+        "FIELD3": "302351500",
+        "FIELD4": "25195958",
+        "FIELD5": "1708425",
+        "FIELD6": "6"
+    },
+    {
+        "S/N": "28",
+        "FIELD2": "PLATEAU STATE HOSPITALS MANAGEMENT BOARD",
+        "FIELD3": "197000000",
+        "FIELD4": "16416666",
+        "FIELD5": "996000",
+        "FIELD6": "6"
+    },
+    {
+        "S/N": "29",
+        "FIELD2": "PLATEAU STATE SPORTS COUNCIL",
+        "FIELD3": "4350000",
+        "FIELD4": "362500",
+        "FIELD5": "20000",
+        "FIELD6": "5"
+    },
+    {
+        "S/N": "30",
+        "FIELD2": "PLATEAU STATE POLYTECHNIC, BARKIN LADI (MAIN/HRDC",
+        "FIELD3": "422093600",
+        "FIELD4": "35174466",
+        "FIELD5": "1684423",
+        "FIELD6": "4"
+    },
+    {
+        "S/N": "31",
+        "FIELD2": "JUDICIAL SERVICE COMMISSION",
+        "FIELD3": "360000",
+        "FIELD4": "30000",
+        "FIELD5": "1000",
+        "FIELD6": "3"
+    },
+    {
+        "S/N": "32",
+        "FIELD2": "COLLEGE OF HEALTH TECHNOLOGY, PANKSHIN - ",
+        "FIELD3": "80235000",
+        "FIELD4": "6686250",
+        "FIELD5": "124400",
+        "FIELD6": "1"
+    },
+    {
+        "S/N": "33",
+        "FIELD2": "COLLEGE OF EDUCATION, GINDIRI - PLATEAU ",
+        "FIELD3": "259100000",
+        "FIELD4": "21591666",
+        "FIELD5": "383700",
+        "FIELD6": "1"
+    },
+    {
+        "S/N": "34",
+        "FIELD2": "MINISTRY OF AGRICULTURE AND RURAL ",
+        "FIELD3": "310650000",
+        "FIELD4": "25887500",
+        "FIELD5": "435100",
+        "FIELD6": "1"
+    },
+    {
+        "S/N": "35",
+        "FIELD2": "MINISTRY OF EDU. SCI & TECH - (HIGHER EDUCATION)",
+        "FIELD3": "15000000",
+        "FIELD4": "1250000",
+        "FIELD5": "16740",
+        "FIELD6": "1"
+    },
+    {
+        "S/N": "36",
+        "FIELD2": "PLATEAU STATE ENVIRONMENTAL PROTECTION ",
+        "FIELD3": "9700000",
+        "FIELD4": "808333",
+        "FIELD5": "5000",
+        "FIELD6": "0"
+    },
+    {
+        "S/N": "37",
+        "FIELD2": "OFFICE OF THE HEAD OF CIVIL SERVICE - PLATEAU ",
+        "FIELD3": "75085500",
+        "FIELD4": "6257125",
+        "FIELD5": "4000",
+        "FIELD6": "0.06"
+    },
+    {
+        "S/N": "38",
+        "FIELD2": "PLATEAU STATE SPECIALIST HOSPITAL",
+        "FIELD3": "200000000",
+        "FIELD4": "16666666",
+        "FIELD5": "2250",
+        "FIELD6": "0"
+    },
+    {
+        "S/N": "39",
+        "FIELD2": "PLATEAU STATE BUREAU OF STATISTICS",
+        "FIELD3": "10000",
+        "FIELD4": "833",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "40",
+        "FIELD2": "OFFICE OF THE ACCOUNTANT GENERAL - PLATEAU ",
+        "FIELD3": "50000",
+        "FIELD4": "4166",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "41",
+        "FIELD2": "PLATEAU STATE AFORESTATION PROGRAMME",
+        "FIELD3": "200000",
+        "FIELD4": "16666",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "42",
+        "FIELD2": "PLATEAU STATE ADULT AND NON FORMAL.",
+        "FIELD3": "270000",
+        "FIELD4": "22500",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "43",
+        "FIELD2": "PRIMARY HEALTH CARE DEVELOPMENT",
+        "FIELD3": "300000",
+        "FIELD4": "25000",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "44",
+        "FIELD2": "PLATEAU STATE AIDS CONTROL AGENCY",
+        "FIELD3": "325000",
+        "FIELD4": "27083",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "45",
+        "FIELD2": "MINITRY OF BUDGET AND ECONOMIC PLANNING",
+        "FIELD3": "400000",
+        "FIELD4": "33333",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "46",
+        "FIELD2": "PLATEAU STATE DISABILITY RIGHTS COMMISSION",
+        "FIELD3": "405000",
+        "FIELD4": "33750",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "47",
+        "FIELD2": "PLATEAU STATE LOCAL GOVERNMENT AUDIT",
+        "FIELD3": "480000",
+        "FIELD4": "40000",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "48",
+        "FIELD2": "PLATEAU STATE HOUSE OF ASSEMBLY COMMISSION",
+        "FIELD3": "500000",
+        "FIELD4": "41666",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "49",
+        "FIELD2": "SHARIA COURT OF APPEAL - PLATEAU STATE ",
+        "FIELD3": "550000",
+        "FIELD4": "45833",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "50",
+        "FIELD2": "MINISTRY OF WOMEN AFFAIRS AND SOCIAL ",
+        "FIELD3": "1050000",
+        "FIELD4": "87500",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "51",
+        "FIELD2": "CUSTOMARY COURT OF APPEAL",
+        "FIELD3": "1250000",
+        "FIELD4": "104166",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "52",
+        "FIELD2": "PLATEAU STATE RELEVANT TECH BOARD",
+        "FIELD3": "1355000",
+        "FIELD4": "112916",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "53",
+        "FIELD2": "PLATEAU STATE LOCAL GOVERNMENT STAFF PENSION BOARD",
+        "FIELD3": "2000000",
+        "FIELD4": "166666",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "54",
+        "FIELD2": "PLATEAU STATE ROAD MAINTENANCE AGENCY",
+        "FIELD3": "2100000",
+        "FIELD4": "175000",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "55",
+        "FIELD2": "PLATEAU STATE AUDIT DEPARTMENT",
+        "FIELD3": "2510000",
+        "FIELD4": "209166",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "56",
+        "FIELD2": "JOS MAIN MARKET AUTHORITY - PLATEAU STATE ",
+        "FIELD3": "2565000",
+        "FIELD4": "213750",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "57",
+        "FIELD2": "PLATEAU STATE MUSLIM PILGRIMS WELFARE ",
+        "FIELD3": "3550000",
+        "FIELD4": "295833",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "58",
+        "FIELD2": "PLATEAU STATE CHRISTIAN PILGRIMS WELFARE ",
+        "FIELD3": "4000000",
+        "FIELD4": "333333",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "59",
+        "FIELD2": "MINISTRY OF HOUSING - PLATEAU STATE ",
+        "FIELD3": "4175000",
+        "FIELD4": "347916",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "60",
+        "FIELD2": "PLATEAU AGRICULTURAL DEVELOPMENT PROGRAMME ",
+        "FIELD3": "6263000",
+        "FIELD4": "521916",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "61",
+        "FIELD2": "MINISTRY OF JUSTICE - PLATEAU STATE ",
+        "FIELD3": "10150000",
+        "FIELD4": "845833",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "62",
+        "FIELD2": "PLATAEU AGRICULTURAL MECHANIZATION",
+        "FIELD3": "20050000",
+        "FIELD4": "1670833",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "63",
+        "FIELD2": "MINISTRY OF PHYSICAL PLANNING AND URBAN DEVELOPMENT ",
+        "FIELD3": "21000000",
+        "FIELD4": "1750000",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "64",
+        "FIELD2": "PLATEAU STATE MICROFINANCE DEV AGENCY",
+        "FIELD3": "21000000",
+        "FIELD4": "1750000",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "65",
+        "FIELD2": "MINISTRY FOR LOCAL GOVERNMENT AND CHIFTANCY",
+        "FIELD3": "22650000",
+        "FIELD4": "1887500",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "66",
+        "FIELD2": "MINISTRY OF ENVIRONMENT ",
+        "FIELD3": "23100000",
+        "FIELD4": "1925000",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "67",
+        "FIELD2": "PLATEAU STATE INDEPENDENT ELECTORAL ",
+        "FIELD3": "30050000.00",
+        "FIELD4": "2504166",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "68",
+        "FIELD2": "PLATEAU STATE RURAL WATER SUP & SAN AGENCY",
+        "FIELD3": "31300000",
+        "FIELD4": "2608333",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "69",
+        "FIELD2": "KABONG MARKET",
+        "FIELD3": "35050000",
+        "FIELD4": "2920833",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "70",
+        "FIELD2": "PLATEAU STATE TOURISM CORPORATION",
+        "FIELD3": "39700000",
+        "FIELD4": "3308333",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "71",
+        "FIELD2": "MINISTRY OF WORKS - PLATEAU STATE ",
+        "FIELD3": "42500000",
+        "FIELD4": "3541666",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "72",
+        "FIELD2": "COLLEGE OF ARTS, SCIENCE AND TECHNOLOGY, KURGWI",
+        "FIELD3": "54181000",
+        "FIELD4": "4515083",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "73",
+        "FIELD2": "PLATEAU UNITED FOOTBALL CLUB",
+        "FIELD3": "55000000",
+        "FIELD4": "4583333",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "74",
+        "FIELD2": "COLLEGE OF HEALTH TECHNOLOGY, ZAWAN - ",
+        "FIELD3": "80000000",
+        "FIELD4": "6666666",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "75",
+        "FIELD2": "PLATEAU STATE PUBLISHING CORPORATION",
+        "FIELD3": "105190131",
+        "FIELD4": "8765844",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    },
+    {
+        "S/N": "76",
+        "FIELD2": "PLATEAU RADIO TELEVISION CORPORATION-RADIO",
+        "FIELD3": "110000000",
+        "FIELD4": "9166666",
+        "FIELD5": "-",
+        "FIELD6": "-"
+    }
+]
